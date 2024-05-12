@@ -1,0 +1,1950 @@
+2024-05-04 18:08:10,246 - INFO - Proxy 1 :: 122.10.101.12:3128  --  Not Available
+2024-05-04 18:08:11,289 - INFO - Proxy 2 :: 193.109.78.61:4444  --  Available
+2024-05-04 18:08:20,060 - INFO - Proxy 3 :: 120.48.62.239:8080  --  Not Available
+2024-05-04 18:08:20,306 - INFO - Proxy 4 :: 3.226.182.186:3128  --  Available
+2024-05-04 18:08:21,459 - INFO - Proxy 5 :: 193.109.78.101:4444  --  Available
+2024-05-04 18:08:21,459 - INFO - Total time to check all proxies: 0:00:32.265462
+2024-05-04 18:08:21,459 - INFO - Total available proxies for scraping: 3
+
+2024-05-04 18:13:57,638 - INFO - Proxy 1 :: 193.109.78.97:4444  --  Available
+2024-05-04 18:14:01,070 - INFO - Proxy 2 :: 154.236.189.15:1976  --  Not Available
+2024-05-04 18:14:03,640 - INFO - Proxy 3 :: 85.115.112.178:8197  --  Not Available
+2024-05-04 18:14:04,977 - INFO - Proxy 4 :: 193.109.78.250:4444  --  Available
+2024-05-04 18:14:05,738 - INFO - Proxy 5 :: 74.48.7.43:80  --  Available
+2024-05-04 18:14:05,738 - INFO - Total time to check all proxies: 0:00:10.026832
+2024-05-04 18:14:05,738 - INFO - Total available proxies for scraping: 3
+
+2024-05-04 18:18:46,284 - INFO - Proxy 1 :: 193.109.78.66:4444  --  Available
+2024-05-04 18:18:46,799 - INFO - Proxy 2 :: 159.203.103.28:80  --  Available
+2024-05-04 18:18:48,574 - INFO - Proxy 3 :: 193.109.78.37:4444  --  Available
+2024-05-04 18:19:09,864 - INFO - Proxy 4 :: 103.134.223.139:8181  --  Not Available
+2024-05-04 18:19:31,156 - INFO - Proxy 5 :: 154.236.177.100:1977  --  Not Available
+2024-05-04 18:19:31,156 - INFO - Total time to check all proxies: 0:00:46.167721
+2024-05-04 18:19:31,156 - INFO - Total available proxies for scraping: 3
+
+2024-05-04 18:23:12,688 - INFO - Proxy 2 :: 159.203.103.28:80  --  Not Available
+2024-05-04 18:23:14,208 - INFO - Proxy 3 :: 193.109.78.37:4444  --  Available
+2024-05-04 18:23:15,523 - INFO - Proxy 4 :: 193.109.78.57:4444  --  Available
+2024-05-04 18:23:16,774 - INFO - Proxy 5 :: 45.144.65.12:4444  --  Available
+2024-05-04 18:23:16,774 - INFO - Total time to check all proxies: 0:00:25.816923
+2024-05-04 18:23:16,776 - INFO - Total available proxies for scraping: 3
+
+2024-05-04 18:40:37,867 - INFO - Proxy 1 :: 67.223.119.155:80  --  Not Available
+2024-05-04 18:40:39,169 - INFO - Proxy 2 :: 45.144.65.12:4444  --  Available
+2024-05-04 18:40:41,977 - INFO - Proxy 3 :: 72.10.164.178:10643  --  Not Available
+2024-05-04 18:40:41,992 - INFO - Total time to check all proxies: 0:00:25.429796
+2024-05-04 18:40:41,992 - INFO - Total available proxies for scraping: 1
+
+2024-05-04 18:43:47,416 - INFO - Proxy 1 :: 72.10.164.178:10643  --  Not Available
+2024-05-04 18:44:08,706 - INFO - Proxy 2 :: 117.102.81.5:53281  --  Not Available
+2024-05-04 18:44:09,204 - INFO - Proxy 3 :: 159.203.103.28:80  --  Available
+2024-05-04 18:44:09,220 - INFO - Total time to check all proxies: 0:00:24.363606
+2024-05-04 18:44:09,220 - INFO - Total available proxies for scraping: 1
+
+2024-05-04 18:52:13,805 - INFO - Proxy 1 :: 102.214.165.201:1976  --  Available
+2024-05-04 18:52:34,857 - INFO - Proxy 2 :: 117.102.81.5:53281  --  Not Available
+2024-05-04 18:52:56,165 - INFO - Proxy 3 :: 103.134.223.139:8181  --  Not Available
+2024-05-04 18:52:56,166 - INFO - Total time to check all proxies: 0:00:43.321759
+2024-05-04 18:52:56,166 - INFO - Total available proxies for scraping: 1
+
+2024-05-04 18:58:10,066 - INFO - Proxy 1 :: 222.243.174.132:81  --  Not Available
+2024-05-04 18:58:11,370 - INFO - Proxy 2 :: 193.109.78.61:4444  --  Available
+2024-05-04 18:58:12,776 - INFO - Proxy 3 :: 193.109.78.50:4444  --  Available
+2024-05-04 18:58:12,776 - INFO - Total time to check all proxies: 0:00:24.017698
+2024-05-04 18:58:12,776 - INFO - Total available proxies for scraping: 2
+
+2024-05-04 18:59:14,153 - INFO - Proxy 1 :: 45.144.65.12:4444  --  Available
+2024-05-04 18:59:16,710 - INFO - Proxy 2 :: 72.10.164.178:32331  --  Not Available
+2024-05-04 18:59:17,971 - INFO - Proxy 3 :: 116.125.141.115:80  --  Available
+2024-05-04 18:59:17,971 - INFO - Total time to check all proxies: 0:00:04.980389
+2024-05-04 18:59:17,971 - INFO - Total available proxies for scraping: 2
+
+2024-05-04 19:01:08,271 - INFO - Proxy 1 :: 72.10.164.178:27343  --  Not Available
+2024-05-04 19:01:29,578 - INFO - Proxy 2 :: 103.101.193.78:1111  --  Not Available
+2024-05-04 19:01:30,317 - INFO - Proxy 3 :: 74.48.7.43:80  --  Available
+2024-05-04 19:01:30,317 - INFO - Total time to check all proxies: 0:00:24.614810
+2024-05-04 19:01:30,317 - INFO - Total available proxies for scraping: 1
+
+2024-05-04 19:02:00,234 - INFO - Proxy 1 :: 85.115.112.178:8197  --  Not Available
+2024-05-04 19:02:21,551 - INFO - Proxy 2 :: 154.236.177.100:1977  --  Not Available
+2024-05-04 19:02:22,808 - INFO - Proxy 3 :: 193.109.78.97:4444  --  Available
+2024-05-04 19:02:22,808 - INFO - Total time to check all proxies: 0:00:25.120195
+2024-05-04 19:02:22,808 - INFO - Total available proxies for scraping: 1
+
+2024-05-04 19:04:25,347 - INFO - Proxy 1 :: 74.48.7.43:80  --  Not Available
+2024-05-04 19:04:46,667 - INFO - Proxy 2 :: 101.255.116.125:8080  --  Not Available
+2024-05-04 19:04:49,240 - INFO - Proxy 3 :: 72.10.164.178:32331  --  Not Available
+2024-05-04 19:04:49,240 - INFO - Total time to check all proxies: 0:00:24.259127
+2024-05-04 19:04:49,240 - INFO - Total available proxies for scraping: 0
+
+2024-05-04 19:06:07,323 - INFO - Proxy 1 :: 193.109.78.250:4444  --  Available
+2024-05-04 19:06:28,612 - INFO - Proxy 2 :: 217.52.247.76:1976  --  Not Available
+2024-05-04 19:06:29,911 - INFO - Proxy 3 :: 222.138.76.6:9002  --  Available
+2024-05-04 19:06:29,911 - INFO - Total time to check all proxies: 0:00:23.824949
+2024-05-04 19:06:29,911 - INFO - Total available proxies for scraping: 2
+
+2024-05-04 19:22:03,434 - INFO - Proxy 1 :: 193.109.78.83:4444  --  Available
+2024-05-04 19:22:06,002 - INFO - Proxy 2 :: 72.10.164.178:32331  --  Not Available
+2024-05-04 19:23:12,653 - INFO - Proxy 3 :: 159.203.103.28:80  --  Available
+2024-05-04 19:23:12,653 - INFO - Total time to check all proxies: 0:01:10.628109
+2024-05-04 19:23:12,653 - INFO - Total available proxies for scraping: 2
+
+2024-05-04 20:10:26,304 - INFO - Proxy 1 :: 177.54.229.164:9292  --  Not Available
+2024-05-04 20:10:27,132 - INFO - Proxy 2 :: 120.48.62.239:8080  --  Available
+2024-05-04 20:10:27,759 - INFO - Proxy 3 :: 154.236.177.100:1977  --  Available
+2024-05-04 20:10:27,759 - INFO - Total time to check all proxies: 0:00:22.760882
+2024-05-04 20:10:27,759 - INFO - Total available proxies for scraping: 2
+
+2024-05-04 20:18:24,357 - INFO - Proxy 1 :: 103.101.193.78:1111  --  Not Available
+2024-05-04 20:18:55,685 - INFO - Proxy 2 :: 102.214.165.201:1976  --  Not Available
+2024-05-04 20:18:58,330 - INFO - Proxy 3 :: 72.10.164.178:32331  --  Not Available
+2024-05-04 20:18:58,330 - INFO - Total time to check all proxies: 0:00:55.034536
+2024-05-04 20:18:58,330 - INFO - Total available proxies for scraping: 0
+
+2024-05-04 20:20:02,050 - INFO - Proxy 1 :: 102.214.165.201:1976  --  Not Available
+2024-05-04 20:20:03,255 - INFO - Proxy 2 :: 193.109.78.37:4444  --  Available
+2024-05-04 20:20:24,306 - INFO - Proxy 3 :: 177.54.229.164:9292  --  Not Available
+2024-05-04 20:20:24,307 - INFO - Total time to check all proxies: 0:00:43.282629
+2024-05-04 20:20:24,307 - INFO - Total available proxies for scraping: 1
+
+2024-05-04 20:25:05,534 - INFO - Proxy 1 :: 74.48.7.43:80  --  Available
+2024-05-04 20:25:08,750 - INFO - Proxy 2 :: 101.37.22.207:3128  --  Not Available
+2024-05-04 20:25:09,999 - INFO - Proxy 3 :: 193.109.78.246:4444  --  Available
+2024-05-04 20:25:09,999 - INFO - Total time to check all proxies: 0:00:05.227598
+2024-05-04 20:25:09,999 - INFO - Total available proxies for scraping: 2
+
+2024-05-04 22:08:47,013 - INFO - Proxy 1 :: 72.10.164.178:32331  --  Not Available
+2024-05-04 22:08:49,661 - INFO - Proxy 2 :: 72.10.164.178:10643  --  Not Available
+2024-05-04 22:08:50,915 - INFO - Proxy 3 :: 193.109.78.37:4444  --  Available
+2024-05-04 22:08:50,915 - INFO - Total time to check all proxies: 0:00:06.806437
+2024-05-04 22:08:50,915 - INFO - Total available proxies for scraping: 1
+
+2024-05-04 22:19:23,050 - INFO - Proxy 1 :: 177.54.229.164:9292  --  Not Available
+2024-05-04 22:19:44,326 - INFO - Proxy 2 :: 103.134.223.139:8181  --  Not Available
+2024-05-04 22:19:45,630 - INFO - Proxy 3 :: 193.109.78.101:4444  --  Available
+2024-05-04 22:19:45,631 - INFO - Total time to check all proxies: 0:00:43.868301
+2024-05-04 22:19:45,631 - INFO - Total available proxies for scraping: 1
+
+2024-05-04 22:31:15,164 - INFO - Proxy 1 :: 193.109.78.83:4444  --  Available
+2024-05-04 22:31:36,459 - INFO - Proxy 2 :: 223.215.176.83:8089  --  Not Available
+2024-05-04 22:32:20,029 - INFO - Proxy 3 :: 120.48.62.239:8080  --  Available
+2024-05-04 22:32:20,029 - INFO - Total time to check all proxies: 0:01:06.870835
+2024-05-04 22:32:20,029 - INFO - Total available proxies for scraping: 2
+
+2024-05-04 22:42:55,485 - INFO - Proxy 1 :: 193.109.78.50:4444  --  Available
+2024-05-04 22:42:56,787 - INFO - Proxy 2 :: 193.109.78.56:4444  --  Available
+2024-05-04 22:43:17,811 - INFO - Proxy 3 :: 177.54.229.164:9292  --  Not Available
+2024-05-04 22:43:17,813 - INFO - Total time to check all proxies: 0:00:23.646258
+2024-05-04 22:43:17,813 - INFO - Total available proxies for scraping: 2
+
+2024-05-04 22:44:40,724 - INFO - Proxy 1 :: 67.43.227.226:18927  --  Not Available
+2024-05-04 22:44:50,352 - INFO - Proxy 2 :: 101.255.116.125:8080  --  Available
+2024-05-04 22:44:51,888 - INFO - Proxy 3 :: 193.109.78.61:4444  --  Available
+2024-05-04 22:44:51,888 - INFO - Total time to check all proxies: 0:00:14.082102
+2024-05-04 22:44:51,888 - INFO - Total available proxies for scraping: 2
+
+2024-05-04 22:46:57,844 - INFO - Proxy 1 :: 85.115.112.178:8197  --  Not Available
+2024-05-04 22:46:57,844 - INFO - Total time to check all proxies: 0:00:02.534511
+2024-05-04 22:46:57,849 - INFO - Total available proxies for scraping: 0
+
+2024-05-04 22:50:31,650 - INFO - Proxy 1 :: 193.109.78.112:4444  --  Available
+2024-05-04 22:50:31,659 - INFO - Total time to check all proxies: 0:00:01.342438
+2024-05-04 22:50:31,659 - INFO - Total available proxies for scraping: 1
+
+2024-05-04 22:51:19,290 - INFO - Proxy 1 :: 85.115.112.178:8197  --  Not Available
+2024-05-04 22:51:19,290 - INFO - Total time to check all proxies: 0:00:02.304017
+2024-05-04 22:51:19,295 - INFO - Total available proxies for scraping: 0
+
+2024-05-04 23:02:42,686 - INFO - Proxy 1 :: 101.255.116.125:8080  --  Not Available
+2024-05-04 23:02:42,686 - INFO - Total time to check all proxies: 0:00:21.044363
+2024-05-04 23:02:42,690 - INFO - Total available proxies for scraping: 0
+
+2024-05-04 23:02:58,723 - INFO - Proxy 1 :: 101.37.22.207:3128  --  Not Available
+2024-05-04 23:03:01,282 - INFO - Proxy 2 :: 72.10.164.178:10643  --  Not Available
+2024-05-04 23:03:02,402 - INFO - Proxy 3 :: 219.129.167.82:2222  --  Available
+2024-05-04 23:03:02,402 - INFO - Total time to check all proxies: 0:00:06.894804
+2024-05-04 23:03:02,413 - INFO - Total available proxies for scraping: 1
+
+2024-05-04 23:03:53,070 - INFO - Proxy 1 :: 159.203.103.28:80  --  Not Available
+2024-05-04 23:04:14,364 - INFO - Proxy 2 :: 102.214.165.201:1976  --  Not Available
+2024-05-04 23:04:17,382 - INFO - Proxy 3 :: 101.37.22.207:3128  --  Not Available
+2024-05-04 23:04:17,382 - INFO - Total time to check all proxies: 0:00:45.600121
+2024-05-04 23:04:17,382 - INFO - Total available proxies for scraping: 0
+
+2024-05-04 23:04:33,235 - INFO - Proxy 1 :: 101.37.22.207:3128  --  Not Available
+2024-05-04 23:06:00,682 - INFO - Proxy 2 :: 159.203.103.28:80  --  Not Available
+2024-05-04 23:06:06,155 - INFO - Proxy 3 :: 117.102.81.5:53281  --  Available
+2024-05-04 23:06:06,155 - INFO - Total time to check all proxies: 0:01:35.900414
+2024-05-04 23:06:06,155 - INFO - Total available proxies for scraping: 1
+
+2024-05-04 23:10:24,345 - INFO - Proxy 1 :: 193.109.78.50:4444  --  Available
+2024-05-04 23:10:41,162 - INFO - Proxy 2 :: 82.137.244.151:8080  --  Available
+2024-05-04 23:11:02,205 - INFO - Proxy 3 :: 223.215.176.83:8089  --  Not Available
+2024-05-04 23:11:02,205 - INFO - Total time to check all proxies: 0:00:38.876982
+2024-05-04 23:11:02,205 - INFO - Total available proxies for scraping: 2
+
+2024-05-05 07:59:25,927 - INFO - Proxy 1 :: 101.37.22.207:3128  --  Available
+2024-05-05 08:01:03,799 - INFO - Proxy 2 :: 67.223.119.155:80  --  Not Available
+2024-05-05 08:01:05,612 - INFO - Proxy 3 :: 193.109.78.112:4444  --  Available
+2024-05-05 08:01:26,924 - INFO - Proxy 4 :: 103.134.223.139:8181  --  Not Available
+2024-05-05 08:01:27,982 - INFO - Proxy 5 :: 120.48.62.239:8080  --  Available
+2024-05-05 08:01:49,269 - INFO - Proxy 6 :: 102.222.51.105:8080  --  Not Available
+2024-05-05 08:01:50,316 - INFO - Proxy 7 :: 154.65.39.7:80  --  Available
+2024-05-05 08:02:18,674 - INFO - Proxy 8 :: 101.255.116.125:8080  --  Not Available
+2024-05-05 08:02:47,763 - INFO - Proxy 9 :: 122.10.101.12:3128  --  Available
+2024-05-05 08:03:09,073 - INFO - Proxy 10 :: 102.214.165.201:1976  --  Not Available
+2024-05-05 08:03:09,076 - INFO - Total time to check all proxies: 0:03:44.202416
+2024-05-05 08:03:09,077 - INFO - Total available proxies for scraping: 5
+
+2024-05-06 05:37:35,255 - INFO - Proxy 1 :: 3.226.182.186:3128  --  Not Available
+2024-05-06 05:37:36,159 - INFO - Proxy 2 :: 154.65.39.7:80  --  Available
+2024-05-06 05:37:37,542 - INFO - Proxy 3 :: 193.109.78.66:4444  --  Available
+2024-05-06 05:37:40,216 - INFO - Proxy 4 :: 85.115.112.178:8197  --  Not Available
+2024-05-06 05:37:41,722 - INFO - Proxy 5 :: 193.109.78.56:4444  --  Available
+2024-05-06 05:37:43,262 - INFO - Proxy 6 :: 193.109.78.76:4444  --  Available
+2024-05-06 05:37:46,442 - INFO - Proxy 7 :: 72.10.164.178:27343  --  Not Available
+2024-05-06 05:37:48,809 - INFO - Proxy 8 :: 193.109.78.250:4444  --  Available
+2024-05-06 05:37:51,488 - INFO - Proxy 9 :: 193.109.78.112:4444  --  Available
+2024-05-06 05:38:12,833 - INFO - Proxy 10 :: 154.236.189.15:1976  --  Not Available
+2024-05-06 05:38:12,833 - INFO - Total time to check all proxies: 0:00:58.855569
+2024-05-06 05:38:12,833 - INFO - Total available proxies for scraping: 6
+
+2024-05-06 06:01:44,564 - INFO - Proxy 1 :: 217.52.247.76:1976  --  Not Available
+2024-05-06 06:02:05,867 - INFO - Proxy 2 :: 154.236.189.15:1976  --  Not Available
+2024-05-06 06:02:07,582 - INFO - Proxy 3 :: 193.109.78.97:4444  --  Available
+2024-05-06 06:02:08,852 - INFO - Proxy 4 :: 193.109.78.101:4444  --  Available
+2024-05-06 06:02:08,852 - INFO - Total time to check all proxies: 0:00:45.587677
+2024-05-06 06:02:08,852 - INFO - Total available proxies for scraping: 2
+
+2024-05-06 06:07:37,314 - INFO - Proxy 1 :: 45.144.65.13:4444  --  Available
+2024-05-06 06:07:38,733 - INFO - Proxy 2 :: 193.109.78.50:4444  --  Available
+2024-05-06 06:07:40,284 - INFO - Proxy 3 :: 193.109.78.61:4444  --  Available
+2024-05-06 06:08:01,585 - INFO - Proxy 4 :: 103.101.193.78:1111  --  Not Available
+2024-05-06 06:08:01,585 - INFO - Total time to check all proxies: 0:00:25.647116
+2024-05-06 06:08:01,585 - INFO - Total available proxies for scraping: 3
+
+2024-05-06 06:11:47,019 - INFO - Proxy 1 :: 3.226.182.186:3128  --  Not Available
+2024-05-06 06:11:48,509 - INFO - Proxy 2 :: 193.109.78.97:4444  --  Available
+2024-05-06 06:11:50,032 - INFO - Proxy 3 :: 193.109.78.112:4444  --  Available
+2024-05-06 06:11:51,368 - INFO - Proxy 4 :: 221.6.139.190:9002  --  Available
+2024-05-06 06:11:51,368 - INFO - Total time to check all proxies: 0:00:25.647624
+2024-05-06 06:11:51,368 - INFO - Total available proxies for scraping: 3
+
+2024-05-06 06:37:25,512 - INFO - Proxy 1 :: 193.109.78.250:4444  --  Available
+2024-05-06 06:37:26,443 - INFO - Proxy 2 :: 154.65.39.7:80  --  Available
+2024-05-06 06:37:47,731 - INFO - Proxy 3 :: 217.52.247.76:1976  --  Not Available
+2024-05-06 06:37:49,475 - INFO - Proxy 4 :: 45.144.65.12:4444  --  Available
+2024-05-06 06:37:49,475 - INFO - Total time to check all proxies: 0:00:25.454925
+2024-05-06 06:37:49,475 - INFO - Total available proxies for scraping: 3
+
+2024-05-06 16:29:35,465 - INFO - Proxy 2 :: 103.134.223.139:8181  --  Not Available
+2024-05-06 16:29:37,321 - INFO - Proxy 3 :: 193.109.78.112:4444  --  Available
+2024-05-06 16:29:58,605 - INFO - Proxy 4 :: 117.102.81.5:53281  --  Not Available
+2024-05-06 16:29:58,605 - INFO - Total time to check all proxies: 0:00:44.968823
+2024-05-06 16:29:58,605 - INFO - Total available proxies for scraping: 1
+
+2024-05-06 16:58:14,145 - INFO - Proxy 1 :: 72.10.164.178:16529  --  Not Available
+2024-05-06 16:58:17,222 - INFO - Proxy 2 :: 193.109.78.57:4444  --  Available
+2024-05-06 16:58:38,262 - INFO - Proxy 3 :: 103.134.223.139:8181  --  Not Available
+2024-05-06 16:58:39,631 - INFO - Proxy 4 :: 45.144.65.10:4444  --  Available
+2024-05-06 16:58:39,631 - INFO - Total time to check all proxies: 0:00:28.743190
+2024-05-06 16:58:39,631 - INFO - Total available proxies for scraping: 2
+
+2024-05-06 18:18:54,889 - INFO - Proxy 1 :: 177.54.229.164:9292  --  Not Available
+2024-05-06 18:19:56,202 - INFO - Proxy 2 :: 120.48.62.239:8080  --  Available
+2024-05-06 18:19:59,725 - INFO - Proxy 3 :: 193.109.78.56:4444  --  Available
+2024-05-06 18:20:21,022 - INFO - Proxy 4 :: 154.236.189.15:1976  --  Not Available
+2024-05-06 18:20:21,022 - INFO - Total time to check all proxies: 0:01:47.411474
+2024-05-06 18:20:21,023 - INFO - Total available proxies for scraping: 2
+
+2024-05-06 18:34:04,276 - INFO - Proxy 1 :: 161.35.70.249:8080  --  Not Available
+2024-05-06 18:34:05,775 - INFO - Proxy 2 :: 222.243.174.132:81  --  Not Available
+2024-05-06 18:34:06,369 - INFO - Proxy 3 :: 193.109.78.57:4444  --  Not Available
+2024-05-06 18:34:27,658 - INFO - Proxy 4 :: 3.226.182.186:3128  --  Not Available
+2024-05-06 18:34:28,220 - INFO - Proxy 5 :: 193.109.78.56:4444  --  Not Available
+2024-05-06 18:34:28,221 - INFO - Total time to check all proxies: 0:00:24.438643
+2024-05-06 18:34:28,221 - INFO - Total available proxies for scraping: 0
+
+2024-05-06 18:35:01,853 - INFO - Proxy 1 :: 221.6.139.190:9002  --  Not Available
+2024-05-06 18:35:23,145 - INFO - Proxy 2 :: 154.236.177.100:1977  --  Not Available
+2024-05-06 18:35:26,034 - INFO - Proxy 3 :: 72.10.164.178:27343  --  Not Available
+2024-05-06 18:35:26,598 - INFO - Proxy 4 :: 193.109.78.112:4444  --  Not Available
+2024-05-06 18:35:28,310 - INFO - Proxy 5 :: 120.48.62.239:8080  --  Not Available
+2024-05-06 18:35:28,310 - INFO - Total time to check all proxies: 0:00:27.083752
+2024-05-06 18:35:28,326 - INFO - Total available proxies for scraping: 0
+
+2024-05-06 18:35:53,821 - INFO - Proxy 1 :: 193.109.78.83:4444  --  Not Available
+2024-05-06 18:35:54,186 - INFO - Proxy 2 :: 221.6.139.190:9002  --  Not Available
+2024-05-06 18:35:54,492 - INFO - Proxy 3 :: 193.109.78.112:4444  --  Not Available
+2024-05-06 18:35:54,809 - INFO - Proxy 4 :: 193.109.78.56:4444  --  Not Available
+2024-05-06 18:36:16,116 - INFO - Proxy 5 :: 219.129.167.82:2222  --  Not Available
+2024-05-06 18:36:16,117 - INFO - Total time to check all proxies: 0:00:22.880636
+2024-05-06 18:36:16,117 - INFO - Total available proxies for scraping: 0
+
+2024-05-06 18:36:37,925 - INFO - Proxy 1 :: 193.109.78.101:4444  --  Not Available
+2024-05-06 18:36:59,222 - INFO - Proxy 2 :: 67.223.119.155:80  --  Not Available
+2024-05-06 18:36:59,840 - INFO - Proxy 3 :: 74.48.7.43:80  --  Not Available
+2024-05-06 18:37:00,389 - INFO - Proxy 4 :: 193.109.78.61:4444  --  Not Available
+2024-05-06 18:37:21,697 - INFO - Proxy 5 :: 159.203.103.28:80  --  Not Available
+2024-05-06 18:37:22,011 - INFO - Proxy 6 :: 193.109.78.112:4444  --  Not Available
+2024-05-06 18:37:43,746 - INFO - Proxy 7 :: 154.236.177.100:1977  --  Not Available
+2024-05-06 18:37:47,088 - INFO - Proxy 8 :: 223.215.176.83:8089  --  Not Available
+2024-05-06 18:38:08,395 - INFO - Proxy 9 :: 117.102.81.5:53281  --  Not Available
+2024-05-06 18:38:08,954 - INFO - Proxy 10 :: 45.144.65.12:4444  --  Not Available
+2024-05-06 18:38:09,520 - INFO - Proxy 11 :: 45.144.65.10:4444  --  Not Available
+2024-05-06 18:38:11,273 - INFO - Proxy 12 :: 116.125.141.115:80  --  Not Available
+2024-05-06 18:38:13,923 - INFO - Proxy 13 :: 72.10.164.178:27343  --  Not Available
+2024-05-06 18:38:16,814 - INFO - Proxy 14 :: 67.43.227.226:18927  --  Not Available
+2024-05-06 18:38:17,170 - INFO - Proxy 15 :: 221.6.139.190:9002  --  Not Available
+2024-05-06 18:38:17,490 - INFO - Proxy 16 :: 193.109.78.83:4444  --  Not Available
+2024-05-06 18:38:38,799 - INFO - Proxy 17 :: 177.54.229.164:9292  --  Not Available
+2024-05-06 18:38:39,373 - INFO - Proxy 18 :: 193.109.78.97:4444  --  Not Available
+2024-05-06 18:38:39,891 - INFO - Proxy 19 :: 193.109.78.61:4444  --  Not Available
+2024-05-06 18:38:42,862 - INFO - Proxy 20 :: 193.109.78.76:4444  --  Not Available
+2024-05-06 18:38:44,530 - INFO - Proxy 21 :: 222.243.174.132:81  --  Not Available
+2024-05-06 18:38:57,737 - INFO - Proxy 22 :: 82.137.244.151:8080  --  Available
+2024-05-06 18:39:01,065 - INFO - Proxy 23 :: 102.214.165.201:1976  --  Not Available
+2024-05-06 18:39:22,357 - INFO - Proxy 24 :: 217.52.247.76:1976  --  Not Available
+2024-05-06 18:39:43,670 - INFO - Proxy 25 :: 102.222.51.105:8080  --  Not Available
+2024-05-06 18:39:46,285 - INFO - Proxy 26 :: 72.10.164.178:16529  --  Not Available
+2024-05-06 18:40:07,583 - INFO - Proxy 27 :: 154.236.189.15:1976  --  Not Available
+2024-05-06 18:40:12,220 - INFO - Proxy 28 :: 45.144.65.13:4444  --  Not Available
+2024-05-06 18:40:14,852 - INFO - Proxy 29 :: 72.10.164.178:10643  --  Not Available
+2024-05-06 18:40:15,168 - INFO - Proxy 30 :: 161.35.70.249:8080  --  Not Available
+2024-05-06 18:40:36,220 - INFO - Proxy 31 :: 219.129.167.82:2222  --  Not Available
+2024-05-06 18:40:36,591 - INFO - Proxy 32 :: 120.48.62.239:8080  --  Not Available
+2024-05-06 18:40:57,878 - INFO - Proxy 33 :: 103.101.193.78:1111  --  Not Available
+2024-05-06 18:56:42,205 - INFO - Proxy 1 :: 193.109.78.76:4444  --  Not Available
+2024-05-06 18:57:03,242 - INFO - Proxy 2 :: 117.102.81.5:53281  --  Not Available
+2024-05-06 18:57:05,866 - INFO - Proxy 3 :: 72.10.164.178:10643  --  Not Available
+2024-05-06 18:57:08,494 - INFO - Proxy 4 :: 67.43.227.226:18927  --  Not Available
+2024-05-06 18:57:08,829 - INFO - Proxy 5 :: 45.144.65.13:4444  --  Not Available
+2024-05-06 18:57:08,829 - INFO - Total time to check all proxies: 0:00:26.943495
+2024-05-06 18:57:08,830 - INFO - Total available proxies for scraping: 0
+
+2024-05-06 18:57:36,586 - INFO - Proxy 1 :: 193.109.78.101:4444  --  Not Available
+2024-05-06 18:57:45,576 - INFO - Proxy 2 :: 120.48.62.239:8080  --  Not Available
+2024-05-06 18:58:06,613 - INFO - Proxy 3 :: 159.203.103.28:80  --  Not Available
+2024-05-06 18:58:10,216 - INFO - Proxy 4 :: 193.109.78.37:4444  --  Not Available
+2024-05-06 18:58:10,985 - INFO - Proxy 5 :: 45.144.65.12:4444  --  Not Available
+2024-05-06 18:58:10,985 - INFO - Total time to check all proxies: 0:00:37.725725
+2024-05-06 18:58:10,985 - INFO - Total available proxies for scraping: 0
+
+2024-05-06 18:58:48,793 - INFO - Proxy 1 :: 85.115.112.178:8197  --  Not Available
+2024-05-06 18:58:50,128 - INFO - Proxy 2 :: 193.109.78.37:4444  --  Not Available
+2024-05-06 18:58:52,758 - INFO - Proxy 3 :: 72.10.164.178:32331  --  Not Available
+2024-05-06 18:58:54,074 - INFO - Proxy 4 :: 45.144.65.13:4444  --  Not Available
+2024-05-06 18:58:54,416 - INFO - Proxy 5 :: 221.6.139.190:9002  --  Not Available
+2024-05-06 18:58:54,416 - INFO - Total time to check all proxies: 0:00:08.165814
+2024-05-06 18:58:54,416 - INFO - Total available proxies for scraping: 0
+
+2024-05-06 18:59:02,836 - INFO - Proxy 1 :: 193.109.78.246:4444  --  Not Available
+2024-05-06 18:59:03,134 - INFO - Proxy 2 :: 193.109.78.112:4444  --  Not Available
+2024-05-06 18:59:03,460 - INFO - Proxy 3 :: 193.109.78.83:4444  --  Not Available
+2024-05-06 18:59:09,238 - INFO - Proxy 4 :: 120.48.62.239:8080  --  Not Available
+2024-05-06 18:59:30,276 - INFO - Proxy 5 :: 217.52.247.76:1976  --  Not Available
+2024-05-06 18:59:30,276 - INFO - Total time to check all proxies: 0:00:28.019950
+2024-05-06 18:59:30,276 - INFO - Total available proxies for scraping: 0
+
+2024-05-06 20:14:11,562 - INFO - Proxy 1 :: 193.109.78.61:4444  --  Not Available
+2024-05-06 20:14:18,928 - INFO - Proxy 2 :: 193.109.78.246:4444  --  Not Available
+2024-05-06 20:14:19,915 - INFO - Proxy 3 :: 193.109.79.221:4444  --  Not Available
+2024-05-06 20:14:21,497 - INFO - Proxy 4 :: 45.144.65.10:4444  --  Not Available
+2024-05-06 20:14:24,148 - INFO - Proxy 5 :: 72.10.164.178:27343  --  Not Available
+2024-05-06 20:14:24,162 - INFO - Total time to check all proxies: 0:00:12.904981
+2024-05-06 20:14:24,162 - INFO - Total available proxies for scraping: 0
+
+2024-05-06 20:14:56,843 - INFO - Proxy 1 :: 122.10.101.12:3128  --  Not Available
+2024-05-06 20:15:18,131 - INFO - Proxy 2 :: 217.52.247.76:1976  --  Not Available
+2024-05-06 20:17:39,971 - INFO - Proxy 3 :: 101.37.22.207:3128  --  Not Available
+2024-05-06 20:18:01,290 - INFO - Proxy 4 :: 101.255.116.125:8080  --  Not Available
+2024-05-06 20:18:01,590 - INFO - Proxy 5 :: 193.109.78.37:4444  --  Not Available
+2024-05-06 20:18:01,590 - INFO - Total time to check all proxies: 0:03:26.059998
+2024-05-06 20:18:01,590 - INFO - Total available proxies for scraping: 0
+
+2024-05-06 20:23:39,860 - INFO - Proxy 1 :: 154.236.189.15:1976  --  Not Available
+2024-05-06 20:23:40,444 - INFO - Proxy 2 :: 193.109.78.76:4444  --  Not Available
+2024-05-06 20:23:40,727 - INFO - Proxy 3 :: 45.144.65.13:4444  --  Not Available
+2024-05-06 20:23:41,208 - INFO - Proxy 4 :: 154.65.39.7:80  --  Not Available
+2024-05-06 20:24:02,514 - INFO - Proxy 5 :: 177.54.229.164:9292  --  Not Available
+2024-05-06 20:24:02,514 - INFO - Total time to check all proxies: 0:00:43.952593
+2024-05-06 20:24:02,515 - INFO - Total available proxies for scraping: 0
+
+2024-05-06 20:34:08,871 - INFO - Proxy 1 :: 183.234.215.11:8443  --  Not Available
+2024-05-06 20:34:30,169 - INFO - Proxy 2 :: 102.222.51.105:8080  --  Not Available
+2024-05-06 20:34:40,492 - INFO - Proxy 3 :: 67.43.236.20:32867  --  Not Available
+2024-05-06 20:34:43,014 - INFO - Proxy 4 :: 85.115.112.178:8197  --  Not Available
+2024-05-06 20:34:45,875 - INFO - Proxy 5 :: 72.10.164.178:32331  --  Not Available
+2024-05-06 20:34:45,875 - INFO - Total time to check all proxies: 0:00:37.732767
+2024-05-06 20:34:45,875 - INFO - Total available proxies for scraping: 0
+
+2024-05-06 20:41:16,228 - INFO - Proxy 1 :: 154.83.29.70:3030  --  Not Available
+2024-05-06 20:41:19,001 - INFO - Proxy 2 :: 72.10.164.178:21927  --  Not Available
+2024-05-06 20:41:40,316 - INFO - Proxy 3 :: 103.139.127.244:8080  --  Not Available
+2024-05-06 20:41:42,626 - INFO - Proxy 4 :: 23.225.133.74:41698  --  Not Available
+2024-05-06 20:41:43,678 - INFO - Proxy 5 :: 193.109.78.97:4444  --  Not Available
+2024-05-06 20:41:43,678 - INFO - Total time to check all proxies: 0:00:48.744094
+2024-05-06 20:41:43,678 - INFO - Total available proxies for scraping: 0
+
+2024-05-06 20:43:29,019 - INFO - Proxy 1 :: 72.10.164.178:10643  --  Not Available
+2024-05-06 20:43:30,729 - INFO - Proxy 2 :: 219.129.167.82:2222  --  Not Available
+2024-05-06 20:43:52,043 - INFO - Proxy 3 :: 220.247.161.239:1080  --  Not Available
+2024-05-06 20:44:13,372 - INFO - Proxy 4 :: 152.231.87.10:999  --  Not Available
+2024-05-06 20:44:29,176 - INFO - Proxy 5 :: 43.255.113.232:80  --  Not Available
+2024-05-06 20:44:29,176 - INFO - Total time to check all proxies: 0:01:02.786557
+2024-05-06 20:44:29,176 - INFO - Total available proxies for scraping: 0
+
+2024-05-06 20:50:03,966 - INFO - Proxy 1 :: 221.6.139.190:9002  --  Not Available
+2024-05-06 20:50:05,547 - INFO - Proxy 2 :: 193.109.78.66:4444  --  Not Available
+2024-05-06 20:50:26,851 - INFO - Proxy 3 :: 217.160.99.39:80  --  Not Available
+2024-05-06 20:50:29,487 - INFO - Proxy 4 :: 72.10.164.178:21927  --  Not Available
+2024-05-06 20:50:32,396 - INFO - Proxy 5 :: 67.43.227.227:26025  --  Not Available
+2024-05-06 20:50:32,851 - INFO - Proxy 6 :: 43.255.113.232:8080  --  Not Available
+2024-05-06 20:50:33,201 - INFO - Proxy 7 :: 65.21.49.83:8080  --  Not Available
+2024-05-06 20:50:54,505 - INFO - Proxy 8 :: 103.105.196.77:80  --  Not Available
+2024-05-06 20:51:15,817 - INFO - Proxy 9 :: 117.102.81.5:53281  --  Not Available
+2024-05-06 20:51:37,141 - INFO - Proxy 10 :: 117.54.114.101:80  --  Not Available
+2024-05-06 20:51:37,141 - INFO - Total time to check all proxies: 0:01:33.845188
+2024-05-06 20:51:37,141 - INFO - Total available proxies for scraping: 0
+
+2024-05-06 20:53:01,844 - INFO - Proxy 1 :: 43.255.113.232:85  --  Not Available
+2024-05-06 20:53:02,310 - INFO - Proxy 2 :: 221.6.139.190:9002  --  Not Available
+2024-05-06 20:53:23,609 - INFO - Proxy 3 :: 103.101.193.78:1111  --  Not Available
+2024-05-06 20:53:44,661 - INFO - Proxy 4 :: 103.139.127.244:8080  --  Not Available
+2024-05-06 20:53:49,220 - INFO - Proxy 5 :: 43.255.113.232:80  --  Not Available
+2024-05-06 20:57:36,988 - INFO - Proxy 6 :: 67.223.119.155:80  --  Not Available
+2024-05-06 20:57:58,297 - INFO - Proxy 7 :: 103.105.196.98:80  --  Not Available
+2024-05-06 20:58:19,591 - INFO - Proxy 8 :: 177.240.20.117:999  --  Not Available
+2024-05-06 20:58:20,498 - INFO - Proxy 9 :: 152.101.73.180:13579  --  Not Available
+2024-05-06 21:01:07,406 - INFO - Proxy 10 :: 23.225.133.79:41698  --  Not Available
+2024-05-06 21:01:17,061 - INFO - Proxy 11 :: 121.40.62.167:3128  --  Available
+2024-05-06 21:01:18,556 - INFO - Proxy 12 :: 117.54.114.101:80  --  Not Available
+2024-05-06 21:01:39,594 - INFO - Proxy 13 :: 217.160.99.39:80  --  Not Available
+2024-05-06 21:02:00,897 - INFO - Proxy 14 :: 177.93.51.210:999  --  Not Available
+2024-05-06 21:02:01,641 - INFO - Proxy 15 :: 117.250.3.58:8080  --  Not Available
+2024-05-06 21:02:01,642 - INFO - Total time to check all proxies: 0:09:01.254710
+2024-05-06 21:02:01,642 - INFO - Total available proxies for scraping: 1
+
+2024-05-06 21:24:20,158 - INFO - Proxy 1 :: 117.54.114.101:80  --  Not Available
+2024-05-06 21:24:20,244 - INFO - Proxy 2 :: 65.21.49.83:8080  --  Not Available
+2024-05-06 21:24:20,989 - INFO - Proxy 3 :: 161.35.70.249:8080  --  Not Available
+2024-05-06 21:24:23,822 - INFO - Proxy 4 :: 67.43.227.226:19569  --  Not Available
+2024-05-06 21:24:45,134 - INFO - Proxy 5 :: 154.236.189.15:1976  --  Not Available
+2024-05-06 21:25:06,468 - INFO - Proxy 6 :: 158.101.113.18:80  --  Not Available
+2024-05-06 21:25:27,792 - INFO - Proxy 7 :: 154.239.3.186:8080  --  Not Available
+2024-05-06 21:25:49,105 - INFO - Proxy 8 :: 102.214.165.201:1976  --  Not Available
+2024-05-06 21:26:10,435 - INFO - Proxy 9 :: 103.134.223.139:8181  --  Not Available
+2024-05-06 21:26:31,778 - INFO - Proxy 10 :: 43.245.93.193:53805  --  Not Available
+2024-05-06 21:26:53,078 - INFO - Proxy 11 :: 101.255.169.250:8080  --  Not Available
+2024-05-06 21:26:53,509 - INFO - Proxy 12 :: 43.255.113.232:8080  --  Not Available
+2024-05-06 21:26:53,779 - INFO - Proxy 13 :: 193.109.78.66:4444  --  Not Available
+2024-05-06 21:27:15,128 - INFO - Proxy 14 :: 154.236.177.100:1977  --  Not Available
+2024-05-06 21:27:36,438 - INFO - Proxy 15 :: 217.52.247.76:1981  --  Not Available
+2024-05-06 21:27:36,438 - INFO - Total time to check all proxies: 0:03:37.325286
+2024-05-06 21:27:36,439 - INFO - Total available proxies for scraping: 0
+
+2024-05-06 21:28:04,119 - INFO - Proxy 1 :: 67.43.227.227:19581  --  Not Available
+2024-05-06 21:28:25,161 - INFO - Proxy 2 :: 117.102.81.5:53281  --  Not Available
+2024-05-06 21:28:46,472 - INFO - Proxy 3 :: 180.123.40.248:8089  --  Not Available
+2024-05-06 21:29:07,538 - INFO - Proxy 4 :: 154.236.189.15:1976  --  Not Available
+2024-05-06 21:29:10,108 - INFO - Proxy 5 :: 67.43.236.20:27075  --  Not Available
+2024-05-06 21:29:31,167 - INFO - Proxy 6 :: 102.214.165.201:1976  --  Not Available
+2024-05-06 21:29:31,732 - INFO - Proxy 7 :: 45.144.65.10:4444  --  Not Available
+2024-05-06 21:29:32,319 - INFO - Proxy 8 :: 193.109.78.37:4444  --  Not Available
+2024-05-06 21:29:32,754 - INFO - Proxy 9 :: 43.255.113.232:83  --  Not Available
+2024-05-06 21:29:35,414 - INFO - Proxy 10 :: 218.6.120.111:7777  --  Available
+2024-05-06 21:29:56,725 - INFO - Proxy 11 :: 116.97.240.147:4995  --  Not Available
+2024-05-06 21:30:18,038 - INFO - Proxy 12 :: 75.108.126.50:8089  --  Not Available
+2024-05-06 21:30:39,335 - INFO - Proxy 13 :: 102.214.165.241:1981  --  Not Available
+2024-05-06 21:31:13,840 - INFO - Proxy 14 :: 222.243.174.132:81  --  Not Available
+2024-05-06 21:31:14,303 - INFO - Proxy 15 :: 183.234.215.11:8443  --  Not Available
+2024-05-06 21:31:14,303 - INFO - Total time to check all proxies: 0:03:12.802341
+2024-05-06 21:31:14,303 - INFO - Total available proxies for scraping: 1
+
+2024-05-06 21:38:09,142 - INFO - Proxy 1 :: 193.109.78.37:4444  --  Not Available
+2024-05-06 21:38:30,456 - INFO - Proxy 2 :: 12.88.29.66:9080  --  Not Available
+2024-05-06 21:38:51,769 - INFO - Proxy 3 :: 117.102.81.5:53281  --  Not Available
+2024-05-06 21:38:52,241 - INFO - Proxy 4 :: 193.109.78.83:4444  --  Not Available
+2024-05-06 21:39:13,539 - INFO - Proxy 5 :: 103.105.196.165:80  --  Not Available
+2024-05-06 21:39:19,988 - INFO - Proxy 6 :: 102.214.165.241:1981  --  Available
+2024-05-06 21:39:41,285 - INFO - Proxy 7 :: 102.0.3.222:8080  --  Not Available
+2024-05-06 21:40:02,566 - INFO - Proxy 8 :: 43.243.140.58:10001  --  Not Available
+2024-05-06 21:40:23,888 - INFO - Proxy 9 :: 177.93.51.210:999  --  Not Available
+2024-05-06 21:40:45,193 - INFO - Proxy 10 :: 3.226.182.186:3128  --  Not Available
+2024-05-06 21:40:48,038 - INFO - Proxy 11 :: 72.10.164.178:27343  --  Not Available
+2024-05-06 21:40:50,881 - INFO - Proxy 12 :: 67.43.227.226:19569  --  Not Available
+2024-05-06 21:40:51,401 - INFO - Proxy 13 :: 193.109.78.101:4444  --  Not Available
+2024-05-06 21:41:12,711 - INFO - Proxy 14 :: 117.54.114.101:80  --  Not Available
+2024-05-06 21:41:34,005 - INFO - Proxy 15 :: 43.255.113.232:85  --  Not Available
+2024-05-06 21:41:34,005 - INFO - Total time to check all proxies: 0:03:25.409231
+2024-05-06 21:41:34,005 - INFO - Total available proxies for scraping: 1
+
+2024-05-06 22:32:11,186 - INFO - Proxy 1 :: 217.52.247.76:1981  --  Not Available
+2024-05-06 22:32:32,492 - INFO - Proxy 2 :: 179.60.235.249:8094  --  Not Available
+2024-05-06 22:32:53,784 - INFO - Proxy 3 :: 117.54.114.33:80  --  Not Available
+2024-05-06 22:32:56,675 - INFO - Proxy 4 :: 72.10.164.178:32331  --  Not Available
+2024-05-06 22:33:17,988 - INFO - Proxy 5 :: 34.126.125.90:8080  --  Not Available
+2024-05-06 22:33:29,740 - INFO - Proxy 6 :: 177.37.217.45:8080  --  Available
+2024-05-06 22:33:32,625 - INFO - Proxy 7 :: 67.43.227.227:16591  --  Not Available
+2024-05-06 22:33:53,929 - INFO - Proxy 8 :: 75.108.126.50:8089  --  Not Available
+2024-05-06 22:33:56,797 - INFO - Proxy 9 :: 67.43.227.226:18927  --  Not Available
+2024-05-06 22:34:18,088 - INFO - Proxy 10 :: 67.223.119.155:80  --  Not Available
+2024-05-06 22:34:39,379 - INFO - Proxy 11 :: 101.255.169.250:8080  --  Not Available
+2024-05-06 22:34:41,996 - INFO - Proxy 12 :: 72.10.164.178:30717  --  Not Available
+2024-05-06 22:34:42,611 - INFO - Proxy 13 :: 120.48.62.239:8080  --  Not Available
+2024-05-06 22:35:03,897 - INFO - Proxy 14 :: 180.123.111.229:8089  --  Not Available
+2024-05-06 22:35:04,375 - INFO - Proxy 15 :: 154.65.39.7:80  --  Not Available
+2024-05-06 22:35:04,377 - INFO - Total time to check all proxies: 0:03:14.501191
+2024-05-06 22:35:04,378 - INFO - Total available proxies for scraping: 1
+
+2024-05-07 07:03:10,328 - INFO - Proxy 1 :: 67.43.227.226:18927  --  Not Available
+2024-05-07 07:03:13,461 - INFO - Proxy 2 :: 67.43.227.227:19581  --  Not Available
+2024-05-07 07:03:16,762 - INFO - Proxy 3 :: 67.43.236.20:32867  --  Not Available
+2024-05-07 16:24:01,357 - INFO - Proxy 1 :: 103.125.240.237:8080  --  Not Available
+2024-05-07 17:38:33,496 - INFO - Proxy 1 :: 43.245.93.193:53805  --  Not Available
+2024-05-07 17:38:54,800 - INFO - Proxy 2 :: 3.226.182.186:3128  --  Not Available
+2024-05-07 17:38:55,859 - INFO - Proxy 3 :: 193.109.78.87:4444  --  Not Available
+2024-05-07 17:39:16,911 - INFO - Proxy 4 :: 217.52.247.76:1981  --  Not Available
+2024-05-07 17:39:38,214 - INFO - Proxy 5 :: 103.110.34.43:8081  --  Not Available
+2024-05-07 17:39:38,214 - INFO - Total time to check all proxies: 0:01:26.030855
+2024-05-07 17:39:38,214 - INFO - Total available proxies for scraping: 0
+
+2024-05-07 17:40:14,023 - INFO - Proxy 1 :: 193.109.78.112:4444  --  Not Available
+2024-05-07 17:49:29,642 - INFO - Proxy 1 :: 101.51.139.219:8180  --  Not Available
+2024-05-07 17:49:42,809 - INFO - Proxy 2 :: 103.110.36.18:82  --  Available
+2024-05-07 18:49:43,673 - INFO - Proxy 1 :: 190.103.177.131:80  --  Not Available
+2024-05-07 18:49:44,285 - INFO - Proxy 2 :: 37.27.29.181:80  --  Not Available
+2024-05-07 18:49:46,962 - INFO - Proxy 3 :: 20.205.61.143:80  --  Available
+2024-05-07 18:49:58,715 - INFO - Proxy 4 :: 178.128.200.87:80  --  Not Available
+2024-05-07 18:49:59,751 - INFO - Proxy 5 :: 18.228.198.164:80  --  Not Available
+2024-05-07 18:49:59,751 - INFO - Total time to check all proxies: 0:00:17.225716
+2024-05-07 18:49:59,751 - INFO - Total available proxies for scraping: 1
+
+2024-05-07 19:16:48,471 - INFO - Proxy 1 :: 37.27.81.120:80  --  Not Available
+2024-05-07 19:19:40,781 - INFO - Proxy 2 :: 193.151.143.207:443  --  Not Available
+2024-05-07 19:19:42,307 - INFO - Proxy 3 :: 54.64.207.194:13  --  Not Available
+2024-05-07 19:19:43,258 - INFO - Proxy 4 :: 123.30.154.171:7777  --  Not Available
+2024-05-07 19:19:43,762 - INFO - Proxy 5 :: 116.203.28.43:80  --  Not Available
+2024-05-07 19:19:43,763 - INFO - Total time to check all proxies: 0:02:56.336586
+2024-05-07 19:19:43,763 - INFO - Total available proxies for scraping: 0
+
+2024-05-07 19:33:33,136 - INFO - Proxy 1 :: 51.89.14.70:80  --  Not Available
+2024-05-07 19:33:54,459 - INFO - Proxy 2 :: 194.67.91.153:80  --  Not Available
+2024-05-07 19:34:55,873 - INFO - Proxy 3 :: 101.47.4.29:6066  --  Not Available
+2024-05-07 19:34:56,815 - INFO - Proxy 4 :: 47.56.110.204:8989  --  Not Available
+2024-05-07 19:34:58,146 - INFO - Proxy 5 :: 209.146.104.56:80  --  Not Available
+2024-05-07 19:34:58,151 - INFO - Total time to check all proxies: 0:01:25.319645
+2024-05-07 19:34:58,151 - INFO - Total available proxies for scraping: 0
+
+2024-05-07 19:35:33,334 - INFO - Proxy 1 :: 188.121.118.32:80  --  Not Available
+2024-05-07 19:35:35,962 - INFO - Proxy 2 :: 20.210.113.32:8123  --  Available
+2024-05-07 19:35:37,579 - INFO - Proxy 3 :: 133.18.234.13:80  --  Not Available
+2024-05-07 19:35:40,465 - INFO - Proxy 4 :: 20.24.43.214:80  --  Available
+2024-05-07 19:35:41,985 - INFO - Proxy 5 :: 46.51.249.135:3128  --  Not Available
+2024-05-07 19:35:41,985 - INFO - Total time to check all proxies: 0:00:29.944136
+2024-05-07 19:35:41,985 - INFO - Total available proxies for scraping: 2
+
+2024-05-07 19:37:48,911 - INFO - Proxy 1 :: 3.122.84.99:80  --  Not Available
+2024-05-07 19:38:10,204 - INFO - Proxy 2 :: 178.128.200.87:80  --  Not Available
+2024-05-07 19:38:31,259 - INFO - Proxy 3 :: 188.121.118.32:80  --  Not Available
+2024-05-07 19:38:52,568 - INFO - Proxy 4 :: 101.51.139.219:8180  --  Not Available
+2024-05-07 19:38:53,695 - INFO - Proxy 5 :: 54.67.125.45:3128  --  Not Available
+2024-05-07 19:38:53,703 - INFO - Total time to check all proxies: 0:01:05.558253
+2024-05-07 19:38:53,703 - INFO - Total available proxies for scraping: 0
+
+2024-05-07 19:39:01,622 - INFO - Proxy 1 :: 45.43.32.228:80  --  Not Available
+2024-05-07 19:43:09,571 - INFO - Proxy 1 :: 35.180.64.204:16877  --  Not Available
+2024-05-07 19:43:30,850 - INFO - Proxy 2 :: 102.68.128.211:8080  --  Not Available
+2024-05-07 19:43:31,993 - INFO - Proxy 3 :: 13.56.192.187:80  --  Not Available
+2024-05-07 19:44:41,284 - INFO - Proxy 4 :: 101.47.4.29:6066  --  Available
+2024-05-07 19:44:43,486 - INFO - Proxy 5 :: 212.107.29.43:80  --  Not Available
+2024-05-07 19:44:43,486 - INFO - Total time to check all proxies: 0:01:34.688748
+2024-05-07 19:44:43,495 - INFO - Total available proxies for scraping: 1
+
+2024-05-07 19:45:43,676 - INFO - Proxy 1 :: 133.18.234.13:80  --  Not Available
+2024-05-07 19:45:46,427 - INFO - Proxy 2 :: 173.213.71.6:80  --  Not Available
+2024-05-07 19:46:07,705 - INFO - Proxy 3 :: 103.105.196.128:80  --  Not Available
+2024-05-07 19:46:13,293 - INFO - Proxy 4 :: 54.179.44.51:3128  --  Not Available
+2024-05-07 19:46:13,588 - INFO - Proxy 5 :: 51.89.73.162:80  --  Not Available
+2024-05-07 19:46:13,588 - INFO - Total time to check all proxies: 0:00:31.171374
+2024-05-07 19:46:13,603 - INFO - Total available proxies for scraping: 0
+
+2024-05-07 19:46:23,634 - INFO - Proxy 1 :: 51.16.199.206:3128  --  Not Available
+2024-05-07 19:46:44,692 - INFO - Proxy 2 :: 194.67.91.153:80  --  Not Available
+2024-05-07 19:46:45,759 - INFO - Proxy 3 :: 13.59.156.167:3128  --  Not Available
+2024-05-07 19:46:47,969 - INFO - Proxy 4 :: 35.185.196.38:3128  --  Available
+2024-05-07 19:46:48,750 - INFO - Proxy 5 :: 52.16.232.164:3128  --  Not Available
+2024-05-07 19:46:48,750 - INFO - Total time to check all proxies: 0:00:25.941227
+2024-05-07 19:46:48,750 - INFO - Total available proxies for scraping: 1
+
+2024-05-07 19:55:09,097 - INFO - Proxy 1 :: 18.206.158.17:3128  --  Not Available
+2024-05-07 19:55:09,674 - INFO - Proxy 2 :: 154.208.10.126:80  --  Not Available
+2024-05-07 19:55:10,240 - INFO - Proxy 3 :: 37.27.29.181:80  --  Not Available
+2024-05-07 19:55:10,941 - INFO - Proxy 4 :: 103.163.51.254:80  --  Not Available
+2024-05-07 19:55:12,101 - INFO - Proxy 5 :: 190.103.177.131:80  --  Not Available
+2024-05-07 19:55:12,101 - INFO - Total time to check all proxies: 0:00:04.660815
+2024-05-07 19:55:12,106 - INFO - Total available proxies for scraping: 0
+
+2024-05-07 19:55:24,003 - INFO - Proxy 1 :: 154.208.10.126:80  --  Not Available
+2024-05-07 19:55:26,172 - INFO - Proxy 2 :: 20.206.106.192:8123  --  Available
+2024-05-07 19:55:27,706 - INFO - Proxy 3 :: 52.65.193.254:3128  --  Not Available
+2024-05-07 19:55:28,457 - INFO - Proxy 4 :: 95.217.178.175:80  --  Not Available
+2024-05-07 19:55:29,163 - INFO - Proxy 5 :: 47.56.110.204:8989  --  Not Available
+2024-05-07 19:55:29,163 - INFO - Total time to check all proxies: 0:00:05.483903
+2024-05-07 19:55:29,165 - INFO - Total available proxies for scraping: 1
+
+2024-05-07 20:24:25,508 - INFO - Proxy 1 :: 185.201.8.166:80  --  Not Available
+2024-05-07 20:24:27,492 - INFO - Proxy 2 :: 3.110.154.103:8800  --  Not Available
+2024-05-07 20:24:28,195 - INFO - Proxy 3 :: 37.27.81.120:80  --  Not Available
+2024-05-07 20:24:29,624 - INFO - Proxy 4 :: 52.196.1.182:80  --  Not Available
+2024-05-07 20:24:32,141 - INFO - Proxy 5 :: 20.24.43.214:80  --  Available
+2024-05-07 20:24:33,678 - INFO - Proxy 6 :: 3.37.125.76:3128  --  Not Available
+2024-05-07 20:24:34,222 - INFO - Proxy 7 :: 12.186.205.120:80  --  Not Available
+2024-05-07 20:24:41,462 - INFO - Proxy 8 :: 93.177.67.178:80  --  Not Available
+2024-05-07 20:25:02,770 - INFO - Proxy 9 :: 103.105.196.128:80  --  Not Available
+2024-05-07 20:25:04,958 - INFO - Proxy 10 :: 35.185.196.38:3128  --  Available
+2024-05-07 20:25:04,958 - INFO - Total time to check all proxies: 0:02:03.570693
+2024-05-07 20:25:04,974 - INFO - Total available proxies for scraping: 2
+
+2024-05-07 23:12:05,160 - INFO - Proxy 1 :: 3.10.175.104:4000  --  Not Available
+2024-05-07 23:12:06,320 - INFO - Proxy 2 :: 20.111.54.16:8123  --  Available
+2024-05-07 23:12:07,400 - INFO - Proxy 3 :: 18.206.158.17:3128  --  Not Available
+2024-05-07 23:12:08,968 - INFO - Proxy 4 :: 209.146.104.56:80  --  Not Available
+2024-05-07 23:12:11,035 - INFO - Proxy 5 :: 37.27.82.72:80  --  Not Available
+2024-05-07 23:12:11,035 - INFO - Total time to check all proxies: 0:00:06.721855
+2024-05-07 23:12:11,035 - INFO - Total available proxies for scraping: 1
+
+2024-05-07 23:23:47,922 - INFO - Proxy 1 :: 103.130.145.169:80  --  Not Available
+2024-05-07 23:24:09,251 - INFO - Proxy 2 :: 103.170.100.96:8080  --  Not Available
+2024-05-07 23:25:47,285 - INFO - Proxy 3 :: 193.151.143.207:443  --  Not Available
+2024-05-07 23:25:50,039 - INFO - Proxy 4 :: 216.137.184.253:80  --  Not Available
+2024-05-07 23:25:50,556 - INFO - Proxy 5 :: 116.203.28.43:80  --  Not Available
+2024-05-07 23:25:50,556 - INFO - Total time to check all proxies: 0:02:03.254290
+2024-05-07 23:25:50,557 - INFO - Total available proxies for scraping: 0
+
+2024-05-07 23:26:08,873 - INFO - Proxy 1 :: 13.37.59.99:3128  --  Not Available
+2024-05-07 23:26:09,434 - INFO - Proxy 2 :: 20.193.154.130:8888  --  Not Available
+2024-05-07 23:26:21,731 - INFO - Proxy 3 :: 178.128.200.87:80  --  Not Available
+2024-05-07 23:26:43,020 - INFO - Proxy 4 :: 45.188.164.48:999  --  Not Available
+2024-05-07 23:26:43,384 - INFO - Proxy 5 :: 51.210.19.141:80  --  Not Available
+2024-05-07 23:26:43,385 - INFO - Total time to check all proxies: 0:00:42.367094
+2024-05-07 23:26:43,385 - INFO - Total available proxies for scraping: 0
+
+2024-05-08 08:19:36,460 - INFO - Proxy 1 :: 35.180.64.204:16877  --  Not Available
+2024-05-08 08:19:38,407 - INFO - Proxy 2 :: 35.185.196.38:3128  --  Available
+2024-05-08 08:19:39,371 - INFO - Proxy 3 :: 45.43.32.228:80  --  Not Available
+2024-05-08 08:19:40,045 - INFO - Proxy 4 :: 162.223.94.166:80  --  Not Available
+2024-05-08 08:19:41,475 - INFO - Proxy 5 :: 54.67.125.45:3128  --  Not Available
+2024-05-08 08:19:41,483 - INFO - Total time to check all proxies: 0:00:05.979570
+2024-05-08 08:19:41,483 - INFO - Total available proxies for scraping: 1
+
+2024-05-08 08:27:42,258 - INFO - Proxy 1 :: 3.127.62.252:80  --  Not Available
+2024-05-08 08:27:42,966 - INFO - Proxy 2 :: 35.180.64.204:16877  --  Not Available
+2024-05-08 08:36:43,987 - INFO - Proxy 1 :: 111.247.40.241:80  --  Not Available
+2024-05-08 08:36:46,103 - INFO - Proxy 2 :: 46.51.249.135:3128  --  Not Available
+2024-05-08 08:36:47,114 - INFO - Proxy 3 :: 99.80.11.54:3128  --  Not Available
+2024-05-08 08:36:48,359 - INFO - Proxy 4 :: 20.111.54.16:8123  --  Available
+2024-05-08 08:36:49,801 - INFO - Proxy 5 :: 209.146.104.56:80  --  Not Available
+2024-05-08 08:36:49,803 - INFO - Total time to check all proxies: 0:00:27.115344
+2024-05-08 08:36:49,803 - INFO - Total available proxies for scraping: 1
+
+2024-05-08 09:02:44,589 - INFO - Proxy 1 :: 162.223.94.164:80  --  Not Available
+2024-05-08 09:02:59,374 - INFO - Proxy 2 :: 154.65.39.7:80  --  Not Available
+2024-05-08 09:03:20,675 - INFO - Proxy 3 :: 101.51.139.219:8180  --  Not Available
+2024-05-08 09:03:21,588 - INFO - Proxy 4 :: 3.123.150.192:3128  --  Not Available
+2024-05-08 09:03:23,842 - INFO - Proxy 5 :: 18.206.158.17:3128  --  Not Available
+2024-05-08 09:03:23,844 - INFO - Total time to check all proxies: 0:00:42.800362
+2024-05-08 09:03:23,846 - INFO - Total available proxies for scraping: 0
+
+2024-05-08 09:06:11,792 - INFO - Proxy 1 :: 35.185.196.38:3128  --  Available
+2024-05-08 09:06:33,116 - INFO - Proxy 2 :: 178.128.200.87:80  --  Not Available
+2024-05-08 09:06:33,587 - INFO - Proxy 3 :: 93.177.67.178:80  --  Not Available
+2024-05-08 09:06:34,309 - INFO - Proxy 4 :: 192.73.244.36:80  --  Not Available
+2024-05-08 09:06:35,427 - INFO - Proxy 5 :: 37.27.82.72:80  --  Not Available
+2024-05-08 09:06:35,427 - INFO - Total time to check all proxies: 0:00:25.522573
+2024-05-08 09:06:35,427 - INFO - Total available proxies for scraping: 1
+
+2024-05-08 09:12:20,000 - INFO - Proxy 1 :: 47.56.110.204:8989  --  Not Available
+2024-05-08 09:12:23,180 - INFO - Proxy 2 :: 173.213.71.6:80  --  Not Available
+2024-05-08 09:12:24,410 - INFO - Proxy 3 :: 3.212.148.199:3128  --  Not Available
+2024-05-08 09:12:25,280 - INFO - Proxy 4 :: 37.27.29.181:80  --  Not Available
+2024-05-08 09:12:26,566 - INFO - Proxy 5 :: 3.12.144.146:3128  --  Not Available
+2024-05-08 09:12:26,566 - INFO - Total time to check all proxies: 0:00:07.583439
+2024-05-08 09:12:26,566 - INFO - Total available proxies for scraping: 0
+
+2024-05-08 09:12:57,165 - INFO - Proxy 1 :: 103.105.196.128:80  --  Not Available
+2024-05-08 09:13:18,445 - INFO - Proxy 2 :: 3.10.175.104:4000  --  Not Available
+2024-05-08 09:13:39,733 - INFO - Proxy 3 :: 194.67.91.153:80  --  Not Available
+2024-05-08 09:13:42,642 - INFO - Proxy 4 :: 173.213.71.6:80  --  Not Available
+2024-05-08 09:14:03,961 - INFO - Proxy 5 :: 52.16.232.164:3128  --  Not Available
+2024-05-08 09:14:03,961 - INFO - Total time to check all proxies: 0:01:28.071195
+2024-05-08 09:14:03,968 - INFO - Total available proxies for scraping: 0
+
+2024-05-08 09:14:08,857 - INFO - Proxy 1 :: 20.193.154.130:8888  --  Not Available
+2024-05-08 09:14:09,572 - INFO - Proxy 2 :: 51.89.73.162:80  --  Not Available
+2024-05-08 09:14:30,640 - INFO - Proxy 3 :: 178.128.200.87:80  --  Not Available
+2024-05-08 09:14:31,079 - INFO - Proxy 4 :: 162.223.94.164:80  --  Not Available
+2024-05-08 09:14:32,309 - INFO - Proxy 5 :: 13.59.156.167:3128  --  Not Available
+2024-05-08 09:14:32,309 - INFO - Total time to check all proxies: 0:00:24.097976
+2024-05-08 09:14:32,309 - INFO - Total available proxies for scraping: 0
+
+2024-05-08 09:14:38,147 - INFO - Proxy 1 :: 52.67.10.183:80  --  Not Available
+2024-05-08 09:14:39,169 - INFO - Proxy 2 :: 51.89.73.162:80  --  Not Available
+2024-05-08 09:15:00,458 - INFO - Proxy 3 :: 103.170.100.96:8080  --  Not Available
+2024-05-08 09:15:21,514 - INFO - Proxy 4 :: 101.51.139.219:8180  --  Not Available
+2024-05-08 09:15:42,571 - INFO - Proxy 5 :: 3.12.144.146:3128  --  Not Available
+2024-05-08 09:15:42,572 - INFO - Total time to check all proxies: 0:01:06.016953
+2024-05-08 09:15:42,572 - INFO - Total available proxies for scraping: 0
+
+2024-05-08 09:17:10,197 - INFO - Proxy 1 :: 192.73.244.36:80  --  Not Available
+2024-05-08 09:17:10,519 - INFO - Proxy 2 :: 162.223.94.164:80  --  Not Available
+2024-05-08 09:17:31,807 - INFO - Proxy 3 :: 3.70.179.165:80  --  Not Available
+2024-05-08 09:17:32,823 - INFO - Proxy 4 :: 20.111.54.16:8123  --  Available
+2024-05-08 09:17:33,966 - INFO - Proxy 5 :: 37.27.81.120:80  --  Not Available
+2024-05-08 09:17:33,966 - INFO - Total time to check all proxies: 0:00:24.367767
+2024-05-08 09:17:33,966 - INFO - Total available proxies for scraping: 1
+
+2024-05-08 09:23:03,167 - INFO - Proxy 1 :: 178.128.200.87:80  --  Not Available
+2024-05-08 09:23:05,443 - INFO - Proxy 2 :: 20.206.106.192:8123  --  Available
+2024-05-08 09:23:26,741 - INFO - Proxy 3 :: 51.145.176.250:8080  --  Not Available
+2024-05-08 09:23:47,794 - INFO - Proxy 4 :: 3.12.144.146:3128  --  Not Available
+2024-05-08 09:23:48,533 - INFO - Proxy 5 :: 38.54.71.67:80  --  Not Available
+2024-05-08 09:23:48,533 - INFO - Total time to check all proxies: 0:01:06.395752
+2024-05-08 09:23:48,533 - INFO - Total available proxies for scraping: 1
+
+2024-05-08 09:24:46,343 - INFO - Proxy 1 :: 103.110.36.18:82  --  Not Available
+2024-05-08 09:24:47,316 - INFO - Proxy 2 :: 216.137.184.253:80  --  Not Available
+2024-05-08 09:24:48,127 - INFO - Proxy 3 :: 47.56.110.204:8989  --  Not Available
+2024-05-08 09:25:09,429 - INFO - Proxy 4 :: 54.64.207.194:13  --  Not Available
+2024-05-08 09:25:40,572 - INFO - Proxy 5 :: 194.67.91.153:80  --  Not Available
+2024-05-08 09:25:40,572 - INFO - Total time to check all proxies: 0:01:15.514113
+2024-05-08 09:25:40,572 - INFO - Total available proxies for scraping: 0
+
+2024-05-08 09:25:50,084 - INFO - Proxy 1 :: 3.212.148.199:3128  --  Not Available
+2024-05-08 09:26:11,387 - INFO - Proxy 2 :: 54.179.44.51:3128  --  Not Available
+2024-05-08 09:26:32,421 - INFO - Proxy 3 :: 51.145.176.250:8080  --  Not Available
+2024-05-08 09:26:54,065 - INFO - Proxy 4 :: 178.128.200.87:80  --  Not Available
+2024-05-08 09:26:55,115 - INFO - Proxy 5 :: 123.30.154.171:7777  --  Not Available
+2024-05-08 09:26:55,115 - INFO - Total time to check all proxies: 0:01:05.959121
+2024-05-08 09:26:55,115 - INFO - Total available proxies for scraping: 0
+
+2024-05-08 09:29:52,593 - INFO - Proxy 1 :: 13.56.192.187:80  --  Not Available
+2024-05-08 09:30:13,619 - INFO - Proxy 2 :: 54.179.44.51:3128  --  Not Available
+2024-05-08 09:30:34,937 - INFO - Proxy 3 :: 103.105.196.98:80  --  Not Available
+2024-05-08 09:30:56,226 - INFO - Proxy 4 :: 3.122.84.99:80  --  Not Available
+2024-05-08 09:30:57,660 - INFO - Proxy 5 :: 209.146.104.56:80  --  Not Available
+2024-05-08 09:30:57,660 - INFO - Total time to check all proxies: 0:01:26.386094
+2024-05-08 09:30:57,660 - INFO - Total available proxies for scraping: 0
+
+2024-05-08 09:31:23,230 - INFO - Proxy 1 :: 18.206.158.17:3128  --  Not Available
+2024-05-08 09:31:44,256 - INFO - Proxy 2 :: 3.10.175.104:4000  --  Not Available
+2024-05-08 09:32:05,561 - INFO - Proxy 3 :: 54.67.125.45:3128  --  Not Available
+2024-05-08 09:32:06,169 - INFO - Proxy 4 :: 38.54.71.67:80  --  Not Available
+2024-05-08 09:37:53,231 - INFO - Proxy 1 :: 52.65.193.254:3128  --  Not Available
+2024-05-08 09:38:09,431 - INFO - Proxy 2 :: 162.223.94.164:80  --  Not Available
+2024-05-08 09:38:30,740 - INFO - Proxy 3 :: 102.68.128.211:8080  --  Not Available
+2024-05-08 09:38:52,028 - INFO - Proxy 4 :: 54.179.44.51:3128  --  Not Available
+2024-05-08 09:39:13,303 - INFO - Proxy 5 :: 13.37.59.99:3128  --  Not Available
+2024-05-08 09:39:13,305 - INFO - Total time to check all proxies: 0:01:41.383568
+2024-05-08 09:39:13,305 - INFO - Total available proxies for scraping: 0
+
+2024-05-08 09:39:39,658 - INFO - Proxy 1 :: 3.69.49.95:9080  --  Not Available
+2024-05-08 09:39:43,024 - INFO - Proxy 2 :: 20.205.61.143:80  --  Available
+2024-05-08 09:39:43,926 - INFO - Proxy 3 :: 3.77.153.38:80  --  Not Available
+2024-05-08 09:39:46,855 - INFO - Proxy 4 :: 20.24.43.214:80  --  Available
+2024-05-08 09:39:48,040 - INFO - Proxy 5 :: 190.103.177.131:80  --  Not Available
+2024-05-08 09:39:48,043 - INFO - Total time to check all proxies: 0:00:29.670500
+2024-05-08 09:39:48,043 - INFO - Total available proxies for scraping: 2
+
+2024-05-08 09:50:02,950 - INFO - Proxy 1 :: 18.228.198.164:80  --  Not Available
+2024-05-08 09:50:05,918 - INFO - Proxy 2 :: 20.205.61.143:80  --  Available
+2024-05-08 09:50:33,880 - INFO - Proxy 3 :: 103.170.100.96:8080  --  Available
+2024-05-08 09:50:55,165 - INFO - Proxy 4 :: 35.180.64.204:16877  --  Not Available
+2024-05-08 09:51:16,458 - INFO - Proxy 5 :: 102.68.128.211:8080  --  Not Available
+2024-05-08 09:51:16,458 - INFO - Total time to check all proxies: 0:01:34.794354
+2024-05-08 09:51:16,458 - INFO - Total available proxies for scraping: 2
+
+2024-05-10 06:09:11,302 - INFO - Proxy 1 :: 102.222.252.182:9999  --  Not Available
+2024-05-10 06:09:12,855 - INFO - Proxy 2 :: 123.30.154.171:7777  --  Not Available
+2024-05-10 06:09:51,161 - INFO - Proxy 3 :: 101.47.4.29:6066  --  Not Available
+2024-05-10 06:09:53,417 - INFO - Proxy 4 :: 54.233.119.172:3128  --  Not Available
+2024-05-10 06:09:54,128 - INFO - Proxy 5 :: 20.193.154.130:8888  --  Not Available
+2024-05-10 06:09:54,131 - INFO - Total time to check all proxies: 0:01:04.131039
+2024-05-10 06:09:54,131 - INFO - Total available proxies for scraping: 0
+
+2024-05-10 06:10:18,078 - INFO - Proxy 1 :: 192.73.244.36:80  --  Not Available
+2024-05-10 06:10:23,112 - INFO - Proxy 2 :: 3.12.144.146:3128  --  Not Available
+2024-05-10 06:10:44,435 - INFO - Proxy 3 :: 102.68.128.211:8080  --  Not Available
+2024-05-10 06:10:46,044 - INFO - Proxy 4 :: 209.146.104.56:80  --  Not Available
+2024-05-10 06:10:46,751 - INFO - Proxy 5 :: 116.203.28.43:80  --  Not Available
+2024-05-10 06:10:46,766 - INFO - Total time to check all proxies: 0:00:30.061997
+2024-05-10 06:10:46,766 - INFO - Total available proxies for scraping: 0
+
+2024-05-10 06:16:41,987 - INFO - Proxy 1 :: 103.130.145.169:80  --  Not Available
+2024-05-10 06:16:43,839 - INFO - Proxy 2 :: 3.37.125.76:3128  --  Not Available
+2024-05-10 06:16:44,953 - INFO - Proxy 3 :: 47.56.110.204:8989  --  Not Available
+2024-05-10 06:17:06,277 - INFO - Proxy 4 :: 103.105.196.98:80  --  Not Available
+2024-05-10 06:17:06,975 - INFO - Proxy 5 :: 154.208.10.126:80  --  Not Available
+2024-05-10 06:17:06,975 - INFO - Total time to check all proxies: 0:00:25.778551
+2024-05-10 06:17:06,975 - INFO - Total available proxies for scraping: 0
+
+2024-05-10 06:18:04,012 - INFO - Proxy 1 :: 47.56.110.204:8989  --  Not Available
+2024-05-10 06:18:05,026 - INFO - Proxy 2 :: 173.213.71.6:80  --  Not Available
+2024-05-10 06:18:06,182 - INFO - Proxy 3 :: 20.111.54.16:8123  --  Available
+2024-05-10 06:18:07,607 - INFO - Proxy 4 :: 52.67.10.183:80  --  Not Available
+2024-05-10 06:18:08,198 - INFO - Proxy 5 :: 162.245.85.220:80  --  Not Available
+2024-05-10 06:18:08,822 - INFO - Proxy 6 :: 116.203.28.43:80  --  Not Available
+2024-05-10 06:18:08,822 - INFO - Total time to check all proxies: 0:00:05.595515
+2024-05-10 06:18:08,822 - INFO - Total available proxies for scraping: 1
+
+2024-05-11 18:35:15,290 - INFO - Proxy 1 :: 212.107.29.43:80  --  Not Available
+2024-05-11 18:35:36,593 - INFO - Proxy 2 :: 209.146.104.56:80  --  Not Available
+2024-05-11 18:35:38,399 - INFO - Proxy 3 :: 54.67.125.45:3128  --  Not Available
+2024-05-11 18:35:39,287 - INFO - Proxy 4 :: 3.122.84.99:80  --  Not Available
+2024-05-11 18:35:40,040 - INFO - Proxy 5 :: 51.20.19.159:3128  --  Not Available
+2024-05-11 18:35:40,888 - INFO - Proxy 6 :: 95.217.178.175:80  --  Not Available
+2024-05-11 18:35:40,888 - INFO - Total time to check all proxies: 0:00:27.674819
+2024-05-11 18:35:40,903 - INFO - Total available proxies for scraping: 0
+
+2024-05-11 18:35:50,599 - INFO - Proxy 1 :: 18.185.169.150:3128  --  Not Available
+2024-05-11 18:35:52,544 - INFO - Proxy 2 :: 52.196.1.182:80  --  Not Available
+2024-05-11 18:35:56,891 - INFO - Proxy 3 :: 3.70.179.165:80  --  Not Available
+2024-05-11 18:35:57,420 - INFO - Proxy 4 :: 116.203.28.43:80  --  Not Available
+2024-05-11 18:36:00,019 - INFO - Proxy 5 :: 20.24.43.214:80  --  Available
+2024-05-11 18:36:01,068 - INFO - Proxy 6 :: 54.67.125.45:3128  --  Not Available
+2024-05-11 18:36:01,080 - INFO - Total time to check all proxies: 0:00:11.116749
+2024-05-11 18:36:01,080 - INFO - Total available proxies for scraping: 1
+
+2024-05-11 18:36:45,514 - INFO - Proxy 1 :: 46.51.249.135:3128  --  Not Available
+2024-05-11 18:37:06,821 - INFO - Proxy 2 :: 103.110.36.18:82  --  Not Available
+2024-05-11 18:37:07,129 - INFO - Proxy 3 :: 51.89.73.162:80  --  Not Available
+2024-05-11 18:37:28,422 - INFO - Proxy 4 :: 103.105.196.98:80  --  Not Available
+2024-05-11 18:37:29,251 - INFO - Proxy 5 :: 37.27.29.181:80  --  Not Available
+2024-05-11 18:37:50,553 - INFO - Proxy 6 :: 45.188.164.48:999  --  Not Available
+2024-05-11 18:37:50,554 - INFO - Total time to check all proxies: 0:01:09.471488
+2024-05-11 18:37:50,554 - INFO - Total available proxies for scraping: 0
+
+2024-05-11 18:37:58,370 - INFO - Proxy 1 :: 103.163.51.254:80  --  Not Available
+2024-05-11 18:37:58,885 - INFO - Proxy 2 :: 51.20.19.159:3128  --  Not Available
+2024-05-11 18:38:14,162 - INFO - Proxy 3 :: 83.98.243.181:80  --  Not Available
+2024-05-11 18:38:35,469 - INFO - Proxy 4 :: 111.247.40.241:80  --  Not Available
+2024-05-11 18:38:36,207 - INFO - Proxy 5 :: 3.68.116.206:4000  --  Not Available
+2024-05-11 18:38:37,709 - INFO - Proxy 6 :: 54.248.238.110:80  --  Not Available
+2024-05-11 18:38:37,709 - INFO - Total time to check all proxies: 0:00:40.148155
+2024-05-11 18:38:37,709 - INFO - Total available proxies for scraping: 0
+
+2024-05-11 18:38:46,765 - INFO - Proxy 1 :: 18.228.198.164:80  --  Not Available
+2024-05-11 18:38:47,594 - INFO - Proxy 2 :: 37.27.81.120:80  --  Not Available
+2024-05-11 18:38:51,776 - INFO - Proxy 3 :: 3.68.116.206:4000  --  Not Available
+2024-05-11 18:39:13,076 - INFO - Proxy 4 :: 51.89.14.70:80  --  Not Available
+2024-05-11 18:39:14,167 - INFO - Proxy 5 :: 3.12.144.146:3128  --  Not Available
+2024-05-11 18:39:15,414 - INFO - Proxy 6 :: 18.223.25.15:80  --  Not Available
+2024-05-11 18:39:15,417 - INFO - Total time to check all proxies: 0:00:29.967192
+2024-05-11 18:39:15,417 - INFO - Total available proxies for scraping: 0
+
+2024-05-11 18:39:30,912 - INFO - Proxy 1 :: 212.107.29.43:80  --  Not Available
+2024-05-11 18:39:52,221 - INFO - Proxy 2 :: 13.37.89.201:3128  --  Not Available
+2024-05-11 18:39:55,003 - INFO - Proxy 3 :: 193.151.143.207:443  --  Not Available
+2024-05-11 18:39:56,032 - INFO - Proxy 4 :: 18.228.198.164:80  --  Not Available
+2024-05-11 18:39:57,180 - INFO - Proxy 5 :: 13.59.156.167:3128  --  Not Available
+2024-05-11 18:39:58,452 - INFO - Proxy 6 :: 52.196.1.182:80  --  Not Available
+2024-05-11 18:39:58,468 - INFO - Total time to check all proxies: 0:00:28.183112
+2024-05-11 18:39:58,468 - INFO - Total available proxies for scraping: 0
+
+2024-05-11 18:40:21,910 - INFO - Proxy 1 :: 3.122.84.99:80  --  Not Available
+2024-05-11 18:40:42,975 - INFO - Proxy 2 :: 103.105.196.98:80  --  Not Available
+2024-05-11 18:41:04,031 - INFO - Proxy 3 :: 209.146.104.56:80  --  Not Available
+2024-05-11 18:41:25,334 - INFO - Proxy 4 :: 101.51.139.219:8180  --  Not Available
+2024-05-11 18:41:25,894 - INFO - Proxy 5 :: 20.193.154.130:8888  --  Not Available
+2024-05-11 18:41:26,800 - INFO - Proxy 6 :: 51.16.199.206:3128  --  Not Available
+2024-05-11 18:41:26,800 - INFO - Total time to check all proxies: 0:01:05.340694
+2024-05-11 18:41:26,800 - INFO - Total available proxies for scraping: 0
+
+2024-05-11 18:41:53,603 - INFO - Proxy 1 :: 178.128.200.87:80  --  Not Available
+2024-05-11 18:41:54,102 - INFO - Proxy 2 :: 104.222.32.110:80  --  Not Available
+2024-05-11 18:42:13,998 - INFO - Proxy 3 :: 51.145.176.250:8080  --  Not Available
+2024-05-11 18:42:14,290 - INFO - Proxy 4 :: 20.193.154.130:8888  --  Not Available
+2024-05-11 18:42:14,946 - INFO - Proxy 5 :: 3.70.179.165:80  --  Not Available
+2024-05-11 18:42:29,089 - INFO - Proxy 6 :: 101.47.4.29:6066  --  Not Available
+2024-05-11 18:42:29,104 - INFO - Total time to check all proxies: 0:00:56.811671
+2024-05-11 18:42:29,104 - INFO - Total available proxies for scraping: 0
+
+2024-05-11 18:43:17,821 - INFO - Proxy 1 :: 216.137.184.253:80  --  Not Available
+2024-05-11 18:43:18,686 - INFO - Proxy 2 :: 3.10.175.104:4000  --  Not Available
+2024-05-11 18:43:20,460 - INFO - Proxy 3 :: 35.185.196.38:3128  --  Available
+2024-05-11 18:43:20,938 - INFO - Proxy 4 :: 3.70.179.165:80  --  Not Available
+2024-05-11 18:43:21,189 - INFO - Proxy 5 :: 116.203.28.43:80  --  Not Available
+2024-05-11 18:43:21,549 - INFO - Proxy 6 :: 37.27.29.181:80  --  Not Available
+2024-05-11 18:43:21,555 - INFO - Total time to check all proxies: 0:00:04.558743
+2024-05-11 18:43:21,556 - INFO - Total available proxies for scraping: 1
+
+2024-05-11 18:54:30,532 - INFO - Proxy 1 :: 99.80.11.54:3128  --  Not Available
+2024-05-11 18:54:51,856 - INFO - Proxy 2 :: 3.69.49.95:9080  --  Not Available
+2024-05-11 18:54:52,723 - INFO - Proxy 3 :: 52.16.232.164:3128  --  Not Available
+2024-05-11 18:55:14,014 - INFO - Proxy 4 :: 3.110.154.103:8800  --  Not Available
+2024-05-11 18:55:14,320 - INFO - Proxy 5 :: 51.89.73.162:80  --  Not Available
+2024-05-11 18:55:16,216 - INFO - Proxy 6 :: 54.67.125.45:3128  --  Not Available
+2024-05-11 18:55:16,216 - INFO - Total time to check all proxies: 0:00:46.480069
+2024-05-11 18:55:16,216 - INFO - Total available proxies for scraping: 0
+
+2024-05-11 18:55:27,277 - INFO - Proxy 1 :: 13.37.89.201:3128  --  Not Available
+2024-05-11 18:55:48,580 - INFO - Proxy 2 :: 45.43.32.228:80  --  Not Available
+2024-05-11 18:55:49,393 - INFO - Proxy 3 :: 35.180.64.204:16877  --  Not Available
+2024-05-11 18:55:50,289 - INFO - Proxy 4 :: 51.20.19.159:3128  --  Not Available
+2024-05-11 18:56:11,592 - INFO - Proxy 5 :: 102.222.252.182:9999  --  Not Available
+2024-05-11 18:56:32,912 - INFO - Proxy 6 :: 18.206.158.17:3128  --  Not Available
+2024-05-11 18:56:32,915 - INFO - Total time to check all proxies: 0:01:06.529330
+2024-05-11 18:56:32,915 - INFO - Total available proxies for scraping: 0
+
+2024-05-11 18:57:07,136 - INFO - Proxy 1 :: 178.128.200.87:80  --  Not Available
+2024-05-11 18:57:28,917 - INFO - Proxy 2 :: 45.188.164.48:999  --  Available
+2024-05-11 18:57:29,541 - INFO - Proxy 3 :: 116.203.28.43:80  --  Not Available
+2024-05-11 18:57:30,357 - INFO - Proxy 4 :: 37.27.29.181:80  --  Not Available
+2024-05-11 18:57:30,978 - INFO - Proxy 5 :: 162.245.85.220:80  --  Not Available
+2024-05-11 18:57:40,227 - INFO - Proxy 6 :: 83.98.243.181:80  --  Not Available
+2024-05-11 18:57:40,232 - INFO - Total time to check all proxies: 0:00:54.402497
+2024-05-11 18:57:40,236 - INFO - Total available proxies for scraping: 1
+
+2024-05-11 18:59:06,071 - INFO - Proxy 1 :: 51.16.199.206:3128  --  Not Available
+2024-05-11 18:59:07,935 - INFO - Proxy 2 :: 54.179.44.51:3128  --  Not Available
+2024-05-11 18:59:08,617 - INFO - Proxy 3 :: 35.180.64.204:16877  --  Not Available
+2024-05-11 18:59:09,470 - INFO - Proxy 4 :: 3.122.84.99:80  --  Not Available
+2024-05-11 18:59:12,279 - INFO - Proxy 5 :: 162.223.94.164:80  --  Not Available
+2024-05-11 18:59:13,163 - INFO - Proxy 6 :: 3.10.175.104:4000  --  Not Available
+2024-05-11 18:59:13,163 - INFO - Total time to check all proxies: 0:00:08.079281
+2024-05-11 18:59:13,163 - INFO - Total available proxies for scraping: 0
+
+2024-05-11 18:59:20,547 - INFO - Proxy 1 :: 3.70.179.165:80  --  Not Available
+2024-05-11 18:59:23,196 - INFO - Proxy 2 :: 46.51.249.135:3128  --  Not Available
+2024-05-11 18:59:23,911 - INFO - Proxy 3 :: 3.10.175.104:4000  --  Not Available
+2024-05-11 18:59:24,934 - INFO - Proxy 4 :: 13.37.59.99:3128  --  Not Available
+2024-05-11 18:59:28,942 - INFO - Proxy 5 :: 3.123.150.192:3128  --  Not Available
+2024-05-11 18:59:50,245 - INFO - Proxy 6 :: 101.51.139.219:8180  --  Not Available
+2024-05-11 18:59:50,261 - INFO - Total time to check all proxies: 0:00:31.192844
+2024-05-11 18:59:50,261 - INFO - Total available proxies for scraping: 0
+
+2024-05-11 18:59:57,092 - INFO - Proxy 1 :: 35.185.196.38:3128  --  Available
+2024-05-11 19:00:18,389 - INFO - Proxy 2 :: 103.105.196.128:80  --  Not Available
+2024-05-11 19:00:19,011 - INFO - Proxy 3 :: 162.223.94.166:80  --  Not Available
+2024-05-11 19:00:19,924 - INFO - Proxy 4 :: 3.127.62.252:80  --  Not Available
+2024-05-11 19:00:21,050 - INFO - Proxy 5 :: 47.56.110.204:8989  --  Not Available
+2024-05-11 19:00:22,381 - INFO - Proxy 6 :: 46.51.249.135:3128  --  Not Available
+2024-05-11 19:00:22,397 - INFO - Total time to check all proxies: 0:00:27.243994
+2024-05-11 19:00:22,397 - INFO - Total available proxies for scraping: 1
+
+2024-05-11 19:00:47,168 - INFO - Proxy 1 :: 54.233.119.172:3128  --  Not Available
+2024-05-11 19:01:08,473 - INFO - Proxy 2 :: 209.146.104.56:80  --  Not Available
+2024-05-11 19:01:09,178 - INFO - Proxy 3 :: 51.20.19.159:3128  --  Not Available
+2024-05-11 19:01:10,006 - INFO - Proxy 4 :: 37.27.29.181:80  --  Not Available
+2024-05-11 19:01:11,638 - INFO - Proxy 5 :: 54.248.238.110:80  --  Not Available
+2024-05-11 19:01:32,946 - INFO - Proxy 6 :: 103.110.36.18:82  --  Not Available
+2024-05-11 19:01:32,946 - INFO - Total time to check all proxies: 0:00:47.290953
+2024-05-11 19:01:32,946 - INFO - Total available proxies for scraping: 0
+
+2024-05-11 19:01:38,877 - INFO - Proxy 1 :: 3.127.62.252:80  --  Not Available
+2024-05-11 19:01:59,924 - INFO - Proxy 2 :: 103.105.196.128:80  --  Not Available
+2024-05-11 19:02:03,563 - INFO - Proxy 3 :: 216.137.184.253:80  --  Not Available
+2024-05-11 19:02:04,291 - INFO - Proxy 4 :: 38.54.71.67:80  --  Not Available
+2024-05-11 19:02:25,586 - INFO - Proxy 5 :: 185.201.8.166:80  --  Not Available
+2024-05-11 19:02:41,141 - INFO - Proxy 6 :: 162.223.94.164:80  --  Not Available
+2024-05-11 19:02:41,141 - INFO - Total time to check all proxies: 0:01:02.851045
+2024-05-11 19:02:41,141 - INFO - Total available proxies for scraping: 0
+
+2024-05-11 19:03:08,889 - INFO - Proxy 1 :: 3.110.154.103:8800  --  Not Available
+2024-05-11 19:03:09,296 - INFO - Proxy 2 :: 37.27.29.181:80  --  Not Available
+2024-05-11 19:03:12,060 - INFO - Proxy 3 :: 20.24.43.214:80  --  Available
+2024-05-11 19:03:13,196 - INFO - Proxy 4 :: 3.212.148.199:3128  --  Not Available
+2024-05-11 19:03:13,916 - INFO - Proxy 5 :: 216.137.184.253:80  --  Not Available
+2024-05-11 19:03:14,226 - INFO - Proxy 6 :: 116.203.28.43:80  --  Not Available
+2024-05-11 19:03:14,226 - INFO - Total time to check all proxies: 0:00:26.385913
+2024-05-11 19:03:14,226 - INFO - Total available proxies for scraping: 1
+
+2024-05-11 19:33:48,736 - INFO - Proxy 1 :: 188.121.118.32:80  --  Not Available
+2024-05-11 19:33:49,431 - INFO - Proxy 2 :: 13.37.59.99:3128  --  Not Available
+2024-05-11 19:33:50,246 - INFO - Proxy 3 :: 3.127.62.252:80  --  Not Available
+2024-05-11 19:33:50,756 - INFO - Proxy 4 :: 93.177.67.178:80  --  Not Available
+2024-05-11 19:33:51,963 - INFO - Proxy 5 :: 54.233.119.172:3128  --  Not Available
+2024-05-11 19:33:53,310 - INFO - Proxy 6 :: 20.111.54.16:8123  --  Available
+2024-05-11 19:33:53,310 - INFO - Total time to check all proxies: 0:00:25.890898
+2024-05-11 19:33:53,310 - INFO - Total available proxies for scraping: 1
+
+2024-05-11 20:22:06,801 - INFO - Proxy 1 :: 51.145.176.250:8080  --  Available
+2024-05-11 20:22:07,440 - INFO - Proxy 2 :: 154.208.10.126:80  --  Not Available
+2024-05-11 20:22:28,755 - INFO - Proxy 3 :: 194.67.91.153:80  --  Not Available
+2024-05-11 20:22:29,981 - INFO - Proxy 4 :: 99.80.11.54:3128  --  Not Available
+2024-05-11 20:22:51,302 - INFO - Proxy 5 :: 185.201.8.166:80  --  Not Available
+2024-05-11 20:23:12,604 - INFO - Proxy 6 :: 51.20.19.159:3128  --  Not Available
+2024-05-11 20:23:12,604 - INFO - Total time to check all proxies: 0:01:08.728227
+2024-05-11 20:23:12,604 - INFO - Total available proxies for scraping: 1
+
+2024-05-11 20:24:34,906 - INFO - Proxy 1 :: 52.65.193.254:3128  --  Not Available
+2024-05-11 20:24:36,955 - INFO - Proxy 2 :: 216.137.184.253:80  --  Not Available
+2024-05-11 20:24:37,877 - INFO - Proxy 3 :: 37.27.82.72:80  --  Not Available
+2024-05-11 20:24:39,715 - INFO - Proxy 4 :: 3.37.125.76:3128  --  Not Available
+2024-05-11 20:24:41,059 - INFO - Proxy 5 :: 13.56.192.187:80  --  Not Available
+2024-05-11 20:24:42,673 - INFO - Proxy 6 :: 54.248.238.110:80  --  Not Available
+2024-05-11 20:24:42,673 - INFO - Total time to check all proxies: 0:00:09.528022
+2024-05-11 20:24:42,673 - INFO - Total available proxies for scraping: 0
+
+2024-05-11 20:25:09,349 - INFO - Proxy 1 :: 102.222.252.182:9999  --  Not Available
+2024-05-11 20:25:12,239 - INFO - Proxy 2 :: 133.18.234.13:80  --  Not Available
+2024-05-11 20:25:12,653 - INFO - Proxy 3 :: 154.208.10.126:80  --  Not Available
+2024-05-11 20:25:13,306 - INFO - Proxy 4 :: 20.193.154.130:8888  --  Not Available
+2024-05-11 20:25:16,264 - INFO - Proxy 5 :: 20.205.61.143:80  --  Available
+2024-05-11 20:25:17,424 - INFO - Proxy 6 :: 123.30.154.171:7777  --  Not Available
+2024-05-11 20:25:17,424 - INFO - Total time to check all proxies: 0:00:29.368562
+2024-05-11 20:25:17,424 - INFO - Total available proxies for scraping: 1
+
+2024-05-11 20:27:50,596 - INFO - Proxy 1 :: 35.72.118.126:80  --  Not Available
+2024-05-11 20:28:01,749 - INFO - Proxy 2 :: 3.127.62.252:80  --  Not Available
+2024-05-11 20:28:05,846 - INFO - Proxy 3 :: 46.51.249.135:3128  --  Not Available
+2024-05-11 20:28:07,818 - INFO - Proxy 4 :: 212.107.29.43:80  --  Not Available
+2024-05-11 20:28:08,923 - INFO - Proxy 5 :: 47.56.110.204:8989  --  Not Available
+2024-05-11 20:28:09,534 - INFO - Proxy 6 :: 12.186.205.120:80  --  Not Available
+2024-05-11 20:28:09,534 - INFO - Total time to check all proxies: 0:00:27.063899
+2024-05-11 20:28:09,534 - INFO - Total available proxies for scraping: 0
+
+2024-05-11 20:28:40,152 - INFO - Proxy 1 :: 3.10.175.104:4000  --  Not Available
+2024-05-11 20:29:01,193 - INFO - Proxy 2 :: 185.201.8.166:80  --  Not Available
+2024-05-11 20:29:02,608 - INFO - Proxy 3 :: 20.111.54.16:8123  --  Available
+2024-05-11 20:29:05,827 - INFO - Proxy 4 :: 173.213.71.6:80  --  Not Available
+2024-05-11 20:29:27,123 - INFO - Proxy 5 :: 101.51.139.219:8180  --  Not Available
+2024-05-11 20:32:51,958 - INFO - Proxy 1 :: 54.233.119.172:3128  --  Not Available
+2024-05-11 20:32:54,924 - INFO - Proxy 2 :: 20.210.113.32:8123  --  Available
+2024-05-11 20:32:56,143 - INFO - Proxy 3 :: 3.12.144.146:3128  --  Not Available
+2024-05-11 20:32:57,056 - INFO - Proxy 4 :: 3.123.150.192:3128  --  Not Available
+2024-05-11 20:32:58,091 - INFO - Proxy 5 :: 3.10.175.104:4000  --  Not Available
+2024-05-11 20:33:19,393 - INFO - Proxy 6 :: 18.206.158.17:3128  --  Not Available
+2024-05-11 20:33:19,393 - INFO - Total time to check all proxies: 0:00:28.897982
+2024-05-11 20:33:19,393 - INFO - Total available proxies for scraping: 1
+
+2024-05-11 20:43:38,813 - INFO - Proxy 1 :: 51.16.199.206:3128  --  Not Available
+2024-05-11 20:43:39,957 - INFO - Proxy 2 :: 20.111.54.16:8123  --  Available
+2024-05-11 20:43:42,718 - INFO - Proxy 3 :: 20.24.43.214:80  --  Available
+2024-05-11 20:43:43,408 - INFO - Proxy 4 :: 103.163.51.254:80  --  Not Available
+2024-05-11 20:44:04,701 - INFO - Proxy 5 :: 102.68.128.211:8080  --  Not Available
+2024-05-11 20:44:07,583 - INFO - Proxy 6 :: 20.205.61.143:80  --  Available
+2024-05-11 20:44:07,583 - INFO - Total time to check all proxies: 0:00:30.183281
+2024-05-11 20:44:07,583 - INFO - Total available proxies for scraping: 3
+
+2024-05-11 20:46:00,327 - INFO - Proxy 1 :: 18.223.25.15:80  --  Not Available
+2024-05-11 20:46:01,456 - INFO - Proxy 2 :: 54.233.119.172:3128  --  Not Available
+2024-05-11 20:46:22,745 - INFO - Proxy 3 :: 101.51.139.219:8180  --  Not Available
+2024-05-11 20:46:23,361 - INFO - Proxy 4 :: 95.217.178.175:80  --  Not Available
+2024-05-11 20:46:24,093 - INFO - Proxy 5 :: 192.73.244.36:80  --  Not Available
+2024-05-11 20:46:45,430 - INFO - Proxy 6 :: 103.105.196.128:80  --  Not Available
+2024-05-11 20:46:45,432 - INFO - Total time to check all proxies: 0:00:46.478559
+2024-05-11 20:46:45,432 - INFO - Total available proxies for scraping: 0
+
+2024-05-11 20:46:53,267 - INFO - Proxy 1 :: 190.103.177.131:80  --  Not Available
+2024-05-11 20:47:00,020 - INFO - Proxy 2 :: 102.222.252.182:9999  --  Available
+2024-05-11 20:54:02,528 - INFO - Proxy 1 :: 3.12.144.146:3128  --  Not Available
+2024-05-11 20:54:03,761 - INFO - Proxy 2 :: 190.103.177.131:80  --  Not Available
+2024-05-11 20:54:25,065 - INFO - Proxy 3 :: 103.170.100.96:8080  --  Not Available
+2024-05-11 20:54:25,669 - INFO - Proxy 4 :: 95.217.178.175:80  --  Not Available
+2024-05-11 20:54:46,962 - INFO - Proxy 5 :: 18.206.158.17:3128  --  Not Available
+2024-05-11 20:54:47,595 - INFO - Proxy 6 :: 104.222.32.110:80  --  Not Available
+2024-05-11 20:54:47,595 - INFO - Total time to check all proxies: 0:00:46.245936
+2024-05-11 20:54:47,595 - INFO - Total available proxies for scraping: 0
+
+2024-05-11 20:54:58,444 - INFO - Proxy 1 :: 173.213.71.6:80  --  Not Available
+2024-05-11 20:54:59,159 - INFO - Proxy 2 :: 37.27.81.120:80  --  Not Available
+2024-05-11 20:55:00,192 - INFO - Proxy 3 :: 99.80.11.54:3128  --  Not Available
+2024-05-11 20:55:00,893 - INFO - Proxy 4 :: 154.208.10.126:80  --  Not Available
+2024-05-11 20:55:22,174 - INFO - Proxy 5 :: 101.51.139.219:8180  --  Not Available
+2024-05-11 20:55:23,420 - INFO - Proxy 6 :: 3.212.148.199:3128  --  Not Available
+2024-05-11 20:55:23,435 - INFO - Total time to check all proxies: 0:00:26.068365
+2024-05-11 20:55:23,435 - INFO - Total available proxies for scraping: 0
+
+2024-05-11 20:55:30,490 - INFO - Proxy 1 :: 51.210.19.141:80  --  Not Available
+2024-05-11 20:55:33,459 - INFO - Proxy 2 :: 20.205.61.143:80  --  Available
+2024-05-11 20:55:34,490 - INFO - Proxy 3 :: 51.20.19.159:3128  --  Not Available
+2024-05-11 20:55:35,310 - INFO - Proxy 4 :: 38.54.71.67:80  --  Not Available
+2024-05-11 20:55:36,531 - INFO - Proxy 5 :: 18.223.25.15:80  --  Not Available
+2024-05-11 20:55:37,862 - INFO - Proxy 6 :: 13.56.192.187:80  --  Not Available
+2024-05-11 20:55:37,862 - INFO - Total time to check all proxies: 0:00:07.953443
+2024-05-11 20:55:37,862 - INFO - Total available proxies for scraping: 1
+
+2024-05-11 21:33:39,248 - INFO - Proxy 1 :: 18.228.198.164:80  --  Not Available
+2024-05-11 21:33:41,993 - INFO - Proxy 2 :: 37.27.81.120:80  --  Not Available
+2024-05-11 21:33:42,709 - INFO - Proxy 3 :: 37.27.29.181:80  --  Not Available
+2024-05-11 21:34:03,999 - INFO - Proxy 4 :: 3.110.154.103:8800  --  Not Available
+2024-05-11 21:34:25,306 - INFO - Proxy 5 :: 93.177.67.178:80  --  Not Available
+2024-05-11 21:34:26,844 - INFO - Proxy 6 :: 54.233.119.172:3128  --  Not Available
+2024-05-11 21:34:26,844 - INFO - Total time to check all proxies: 0:00:49.056742
+2024-05-11 21:34:26,844 - INFO - Total available proxies for scraping: 0
+
+2024-05-11 21:34:32,792 - INFO - Proxy 1 :: 216.137.184.253:80  --  Not Available
+2024-05-11 21:34:33,407 - INFO - Proxy 2 :: 162.223.94.166:80  --  Not Available
+2024-05-11 21:34:54,721 - INFO - Proxy 3 :: 3.69.49.95:9080  --  Not Available
+2024-05-11 21:34:55,921 - INFO - Proxy 4 :: 13.56.192.187:80  --  Not Available
+2024-05-11 21:34:56,345 - INFO - Proxy 5 :: 37.27.29.181:80  --  Not Available
+2024-05-11 21:34:58,290 - INFO - Proxy 6 :: 54.179.44.51:3128  --  Not Available
+2024-05-11 21:34:58,294 - INFO - Total time to check all proxies: 0:00:26.456277
+2024-05-11 21:34:58,294 - INFO - Total available proxies for scraping: 0
+
+2024-05-11 21:35:03,456 - INFO - Proxy 1 :: 99.80.11.54:3128  --  Not Available
+2024-05-11 21:35:24,513 - INFO - Proxy 2 :: 103.170.100.96:8080  --  Not Available
+2024-05-11 21:35:25,520 - INFO - Proxy 3 :: 3.123.150.192:3128  --  Not Available
+2024-05-11 21:35:27,166 - INFO - Proxy 4 :: 54.179.44.51:3128  --  Not Available
+2024-05-11 21:35:28,190 - INFO - Proxy 5 :: 3.10.175.104:4000  --  Not Available
+2024-05-11 21:35:29,211 - INFO - Proxy 6 :: 47.56.110.204:8989  --  Not Available
+2024-05-11 21:35:29,216 - INFO - Total time to check all proxies: 0:00:26.257033
+2024-05-11 21:35:29,216 - INFO - Total available proxies for scraping: 0
+
+2024-05-11 21:36:04,674 - INFO - Proxy 1 :: 45.188.164.48:999  --  Not Available
+2024-05-11 21:36:05,763 - INFO - Proxy 2 :: 13.56.192.187:80  --  Not Available
+2024-05-11 21:36:09,365 - INFO - Proxy 3 :: 3.123.150.192:3128  --  Not Available
+2024-05-11 21:36:10,565 - INFO - Proxy 4 :: 13.59.156.167:3128  --  Not Available
+2024-05-11 21:36:11,192 - INFO - Proxy 5 :: 216.137.184.253:80  --  Not Available
+2024-05-11 21:36:14,771 - INFO - Proxy 6 :: 12.186.205.120:80  --  Not Available
+2024-05-11 21:36:14,785 - INFO - Total time to check all proxies: 0:00:31.392129
+2024-05-11 21:36:14,785 - INFO - Total available proxies for scraping: 0
+
+2024-05-11 21:36:24,706 - INFO - Proxy 1 :: 192.73.244.36:80  --  Not Available
+2024-05-11 21:36:25,626 - INFO - Proxy 2 :: 3.77.153.38:80  --  Not Available
+2024-05-11 21:36:28,604 - INFO - Proxy 3 :: 154.65.39.7:80  --  Not Available
+2024-05-11 21:36:55,422 - INFO - Proxy 4 :: 103.170.100.96:8080  --  Available
+2024-05-11 21:36:55,630 - INFO - Proxy 5 :: 93.177.67.178:80  --  Not Available
+2024-05-11 21:36:56,664 - INFO - Proxy 6 :: 13.56.192.187:80  --  Not Available
+2024-05-11 21:36:56,668 - INFO - Total time to check all proxies: 0:00:32.751250
+2024-05-11 21:36:56,668 - INFO - Total available proxies for scraping: 1
+
+2024-05-11 21:57:54,338 - INFO - Proxy 1 :: 37.27.82.72:80  --  Not Available
+2024-05-11 21:58:15,646 - INFO - Proxy 2 :: 103.105.196.98:80  --  Not Available
+2024-05-11 21:58:36,957 - INFO - Proxy 3 :: 194.67.91.153:80  --  Not Available
+2024-05-11 21:58:37,659 - INFO - Proxy 4 :: 162.245.85.220:80  --  Not Available
+2024-05-11 21:58:58,957 - INFO - Proxy 5 :: 54.64.207.194:13  --  Not Available
+2024-05-11 21:58:59,456 - INFO - Proxy 6 :: 51.210.19.141:80  --  Not Available
+2024-05-11 21:58:59,456 - INFO - Total time to check all proxies: 0:01:06.175151
+2024-05-11 21:58:59,456 - INFO - Total available proxies for scraping: 0
+
+2024-05-11 21:59:25,997 - INFO - Proxy 1 :: 185.201.8.166:80  --  Not Available
+2024-05-11 21:59:27,316 - INFO - Proxy 2 :: 18.228.198.164:80  --  Not Available
+2024-05-11 21:59:48,626 - INFO - Proxy 3 :: 3.110.154.103:8800  --  Not Available
+2024-05-11 21:59:50,326 - INFO - Proxy 4 :: 52.65.193.254:3128  --  Not Available
+2024-05-11 21:59:51,076 - INFO - Proxy 5 :: 37.27.82.72:80  --  Not Available
+2024-05-11 21:59:52,918 - INFO - Proxy 6 :: 3.37.125.76:3128  --  Not Available
+2024-05-11 21:59:52,924 - INFO - Total time to check all proxies: 0:00:48.234087
+2024-05-11 21:59:52,924 - INFO - Total available proxies for scraping: 0
+
+2024-05-11 22:00:01,622 - INFO - Proxy 1 :: 54.67.125.45:3128  --  Not Available
+2024-05-11 22:00:22,949 - INFO - Proxy 2 :: 45.188.164.48:999  --  Not Available
+2024-05-11 22:00:23,937 - INFO - Proxy 3 :: 51.16.199.206:3128  --  Not Available
+2024-05-11 22:00:45,259 - INFO - Proxy 4 :: 209.146.104.56:80  --  Not Available
+2024-05-11 22:00:53,736 - INFO - Proxy 5 :: 3.123.150.192:3128  --  Not Available
+2024-05-11 22:00:55,380 - INFO - Proxy 6 :: 37.27.29.181:80  --  Not Available
+2024-05-11 22:00:55,380 - INFO - Total time to check all proxies: 0:00:58.029566
+2024-05-11 22:00:55,380 - INFO - Total available proxies for scraping: 0
+
+2024-05-11 22:01:00,016 - INFO - Proxy 1 :: 51.210.19.141:80  --  Not Available
+2024-05-11 22:01:21,340 - INFO - Proxy 2 :: 103.170.100.96:8080  --  Not Available
+2024-05-11 22:02:30,634 - INFO - Proxy 1 :: 13.59.156.167:3128  --  Not Available
+2024-05-11 22:02:31,832 - INFO - Proxy 2 :: 190.103.177.131:80  --  Not Available
+2024-05-11 22:02:33,282 - INFO - Proxy 3 :: 54.233.119.172:3128  --  Not Available
+2024-05-11 22:02:54,591 - INFO - Proxy 4 :: 3.69.49.95:9080  --  Not Available
+2024-05-11 22:03:15,874 - INFO - Proxy 5 :: 111.247.40.241:80  --  Not Available
+2024-05-11 22:03:16,888 - INFO - Proxy 6 :: 13.37.59.99:3128  --  Not Available
+2024-05-11 22:03:16,904 - INFO - Total time to check all proxies: 0:00:47.463318
+2024-05-11 22:03:16,904 - INFO - Total available proxies for scraping: 0
+
+2024-05-11 22:03:41,789 - INFO - Proxy 1 :: 209.146.104.56:80  --  Not Available
+2024-05-11 22:03:42,810 - INFO - Proxy 2 :: 18.185.169.150:3128  --  Not Available
+2024-05-11 22:03:43,426 - INFO - Proxy 3 :: 13.37.59.99:3128  --  Not Available
+2024-05-11 22:03:44,345 - INFO - Proxy 4 :: 190.103.177.131:80  --  Not Available
+2024-05-11 22:03:45,728 - INFO - Proxy 5 :: 54.248.238.110:80  --  Not Available
+2024-05-11 22:03:47,001 - INFO - Proxy 6 :: 13.56.192.187:80  --  Not Available
+2024-05-11 22:03:47,001 - INFO - Total time to check all proxies: 0:00:26.275195
+2024-05-11 22:03:47,001 - INFO - Total available proxies for scraping: 0
+
+2024-05-11 22:06:10,969 - INFO - Proxy 1 :: 67.43.227.227:1583  --  Not Available
+2024-05-11 22:06:14,152 - INFO - Proxy 2 :: 72.10.164.178:16529  --  Not Available
+2024-05-11 22:06:35,452 - INFO - Proxy 3 :: 193.109.78.57:4444  --  Not Available
+2024-05-11 22:06:38,524 - INFO - Proxy 4 :: 67.43.227.227:19581  --  Not Available
+2024-05-11 22:06:59,846 - INFO - Proxy 5 :: 193.109.78.56:4444  --  Not Available
+2024-05-11 22:07:21,140 - INFO - Proxy 6 :: 43.255.113.232:8084  --  Not Available
+2024-05-11 22:07:21,140 - INFO - Total time to check all proxies: 0:01:13.441591
+2024-05-11 22:07:21,140 - INFO - Total available proxies for scraping: 0
+
+2024-05-11 22:07:48,173 - INFO - Proxy 1 :: 43.247.38.57:8080  --  Not Available
+2024-05-11 22:07:48,771 - INFO - Proxy 2 :: 43.255.113.232:8081  --  Not Available
+2024-05-11 22:08:10,068 - INFO - Proxy 3 :: 103.125.240.237:8080  --  Not Available
+2024-05-11 22:09:30,032 - INFO - Proxy 4 :: 222.243.174.132:81  --  Not Available
+2024-05-11 22:09:33,013 - INFO - Proxy 5 :: 72.10.164.178:27343  --  Not Available
+2024-05-11 22:09:54,301 - INFO - Proxy 6 :: 3.226.182.186:3128  --  Not Available
+2024-05-11 22:09:54,305 - INFO - Total time to check all proxies: 0:02:27.432141
+2024-05-11 22:09:54,305 - INFO - Total available proxies for scraping: 0
+
+2024-05-11 22:10:27,285 - INFO - Proxy 1 :: 18.228.198.164:80  --  Not Available
+2024-05-11 22:10:27,994 - INFO - Proxy 2 :: 38.54.71.67:80  --  Not Available
+2024-05-11 22:10:29,259 - INFO - Proxy 3 :: 20.111.54.16:8123  --  Available
+2024-05-11 22:10:50,312 - INFO - Proxy 4 :: 103.105.196.98:80  --  Not Available
+2024-05-11 22:10:51,146 - INFO - Proxy 5 :: 3.68.116.206:4000  --  Not Available
+2024-05-11 22:10:52,160 - INFO - Proxy 6 :: 173.213.71.6:80  --  Not Available
+2024-05-11 22:10:52,160 - INFO - Total time to check all proxies: 0:00:26.209402
+2024-05-11 22:10:52,160 - INFO - Total available proxies for scraping: 1
+
+2024-05-12 07:39:52,355 - INFO - Proxy 1 :: 3.37.125.76:3128  --  Not Available
+2024-05-12 07:39:54,302 - INFO - Proxy 2 :: 154.208.10.126:80  --  Not Available
+2024-05-12 07:40:15,596 - INFO - Proxy 3 :: 102.222.252.182:9999  --  Not Available
+2024-05-12 07:40:24,215 - INFO - Proxy 4 :: 45.188.164.48:999  --  Not Available
+2024-05-12 07:40:45,526 - INFO - Proxy 5 :: 45.43.32.228:80  --  Not Available
+2024-05-12 07:41:06,576 - INFO - Proxy 6 :: 209.146.104.56:80  --  Not Available
+2024-05-12 07:41:06,576 - INFO - Total time to check all proxies: 0:01:16.176898
+2024-05-12 07:41:06,576 - INFO - Total available proxies for scraping: 0
+
+2024-05-12 07:41:11,721 - INFO - Proxy 1 :: 52.196.1.182:80  --  Not Available
+2024-05-12 07:41:14,293 - INFO - Proxy 2 :: 154.208.10.126:80  --  Not Available
+2024-05-12 07:41:15,355 - INFO - Proxy 3 :: 13.56.192.187:80  --  Not Available
+2024-05-12 07:41:16,216 - INFO - Proxy 4 :: 3.77.153.38:80  --  Not Available
+2024-05-12 07:41:16,702 - INFO - Proxy 5 :: 154.65.39.7:80  --  Not Available
+2024-05-12 07:41:18,081 - INFO - Proxy 6 :: 3.12.144.146:3128  --  Not Available
+2024-05-12 07:41:18,081 - INFO - Total time to check all proxies: 0:00:07.969788
+2024-05-12 07:41:18,081 - INFO - Total available proxies for scraping: 0
+
+2024-05-12 07:41:23,444 - INFO - Proxy 1 :: 190.103.177.131:80  --  Not Available
+2024-05-12 07:41:24,616 - INFO - Proxy 2 :: 18.223.25.15:80  --  Not Available
+2024-05-12 07:41:25,273 - INFO - Proxy 3 :: 185.201.8.166:80  --  Not Available
+2024-05-12 07:41:46,315 - INFO - Proxy 4 :: 103.170.100.96:8080  --  Not Available
+2024-05-12 07:41:47,254 - INFO - Proxy 5 :: 47.56.110.204:8989  --  Not Available
+2024-05-12 07:42:08,293 - INFO - Proxy 6 :: 3.110.154.103:8800  --  Not Available
+2024-05-12 07:42:08,293 - INFO - Total time to check all proxies: 0:00:45.704241
+2024-05-12 07:42:08,293 - INFO - Total available proxies for scraping: 0
+
+2024-05-12 07:45:41,783 - INFO - Proxy 1 :: 54.248.238.110:80  --  Not Available
+2024-05-12 07:46:03,098 - INFO - Proxy 2 :: 45.43.32.228:80  --  Not Available
+2024-05-12 07:46:03,950 - INFO - Proxy 3 :: 35.180.64.204:16877  --  Not Available
+2024-05-12 07:46:05,502 - INFO - Proxy 4 :: 3.37.125.76:3128  --  Not Available
+2024-05-12 07:46:06,441 - INFO - Proxy 5 :: 123.30.154.171:7777  --  Not Available
+2024-05-12 07:46:07,569 - INFO - Proxy 6 :: 190.103.177.131:80  --  Not Available
+2024-05-12 07:46:07,569 - INFO - Total time to check all proxies: 0:00:27.228433
+2024-05-12 07:46:07,569 - INFO - Total available proxies for scraping: 0
+
+2024-05-12 07:46:49,700 - INFO - Proxy 1 :: 111.247.40.241:80  --  Not Available
+2024-05-12 07:46:58,805 - INFO - Proxy 2 :: 154.65.39.7:80  --  Not Available
+2024-05-12 07:46:59,381 - INFO - Proxy 3 :: 37.27.81.120:80  --  Not Available
+2024-05-12 07:47:20,701 - INFO - Proxy 4 :: 103.105.196.98:80  --  Not Available
+2024-05-12 07:47:21,689 - INFO - Proxy 5 :: 3.212.148.199:3128  --  Not Available
+2024-05-12 07:47:23,160 - INFO - Proxy 6 :: 46.51.249.135:3128  --  Not Available
+2024-05-12 07:47:24,500 - INFO - Proxy 7 :: 54.233.119.172:3128  --  Not Available
+2024-05-12 07:47:45,817 - INFO - Proxy 8 :: 102.222.252.182:9999  --  Not Available
+2024-05-12 07:48:07,123 - INFO - Proxy 9 :: 51.89.14.70:80  --  Not Available
+2024-05-12 07:48:07,762 - INFO - Proxy 10 :: 38.54.71.67:80  --  Not Available
+2024-05-12 07:48:07,762 - INFO - Total time to check all proxies: 0:01:39.355214
+2024-05-12 07:48:07,762 - INFO - Total available proxies for scraping: 0
+
+2024-05-12 07:48:33,264 - INFO - Proxy 1 :: 45.188.164.48:999  --  Not Available
+2024-05-12 07:48:54,534 - INFO - Proxy 2 :: 3.110.154.103:8800  --  Not Available
+2024-05-12 07:48:55,331 - INFO - Proxy 3 :: 3.77.153.38:80  --  Not Available
+2024-05-12 07:49:03,556 - INFO - Proxy 4 :: 51.145.176.250:8080  --  Available
+2024-05-12 07:49:24,846 - INFO - Proxy 5 :: 101.51.139.219:8180  --  Not Available
+2024-05-12 07:49:46,147 - INFO - Proxy 6 :: 103.105.196.128:80  --  Not Available
+2024-05-12 07:50:07,440 - INFO - Proxy 7 :: 178.128.200.87:80  --  Not Available
+2024-05-12 07:50:28,730 - INFO - Proxy 8 :: 102.68.128.211:8080  --  Not Available
+2024-05-12 07:50:31,534 - INFO - Proxy 9 :: 173.213.71.6:80  --  Not Available
+2024-05-12 07:50:33,646 - INFO - Proxy 10 :: 20.206.106.192:8123  --  Available
+2024-05-12 07:50:33,646 - INFO - Total time to check all proxies: 0:02:21.681083
+2024-05-12 07:50:33,646 - INFO - Total available proxies for scraping: 2
+
+2024-05-12 08:03:02,927 - INFO - Proxy 1 :: 51.20.19.159:3128  --  Not Available
+2024-05-12 08:03:04,038 - INFO - Proxy 2 :: 18.223.25.15:80  --  Not Available
+2024-05-12 08:03:05,231 - INFO - Proxy 3 :: 54.67.125.45:3128  --  Not Available
+2024-05-12 08:03:26,530 - INFO - Proxy 4 :: 209.146.104.56:80  --  Not Available
+2024-05-12 08:03:26,865 - INFO - Proxy 5 :: 51.210.19.141:80  --  Not Available
+2024-05-12 08:03:27,741 - INFO - Proxy 6 :: 190.103.177.131:80  --  Not Available
+2024-05-12 08:03:43,675 - INFO - Proxy 7 :: 18.185.169.150:3128  --  Not Available
+2024-05-12 08:04:04,720 - INFO - Proxy 8 :: 45.43.32.228:80  --  Not Available
+2024-05-12 08:04:05,446 - INFO - Proxy 9 :: 37.27.82.72:80  --  Not Available
+2024-05-12 08:04:08,094 - INFO - Proxy 10 :: 20.210.113.32:8123  --  Available
+2024-05-12 08:04:08,094 - INFO - Total time to check all proxies: 0:01:05.902930
+2024-05-12 08:04:08,094 - INFO - Total available proxies for scraping: 1
+
+2024-05-12 08:52:05,104 - INFO - Proxy 1 :: 3.69.49.95:9080  --  Not Available
+2024-05-12 08:52:11,067 - INFO - Proxy 2 :: 101.47.4.29:6066  --  Not Available
+2024-05-12 08:52:11,758 - INFO - Proxy 3 :: 103.130.145.169:80  --  Not Available
+2024-05-12 08:52:12,661 - INFO - Proxy 4 :: 13.37.59.99:3128  --  Not Available
+2024-05-12 08:52:33,963 - INFO - Proxy 5 :: 185.201.8.166:80  --  Not Available
+2024-05-12 08:52:34,493 - INFO - Proxy 6 :: 162.223.94.166:80  --  Not Available
+2024-05-12 08:52:35,414 - INFO - Proxy 7 :: 51.20.19.159:3128  --  Not Available
+2024-05-12 08:52:38,229 - INFO - Proxy 8 :: 193.151.143.207:443  --  Not Available
+2024-05-12 08:52:38,966 - INFO - Proxy 9 :: 13.37.89.201:3128  --  Not Available
+2024-05-12 08:52:40,183 - INFO - Proxy 10 :: 54.67.125.45:3128  --  Not Available
+2024-05-12 08:52:40,188 - INFO - Total time to check all proxies: 0:00:56.379619
+2024-05-12 08:52:40,188 - INFO - Total available proxies for scraping: 0
+
+2024-05-12 08:53:06,897 - INFO - Proxy 1 :: 51.20.19.159:3128  --  Not Available
+2024-05-12 08:53:09,441 - INFO - Proxy 2 :: 20.24.43.214:80  --  Available
+2024-05-12 08:53:30,765 - INFO - Proxy 3 :: 209.146.104.56:80  --  Not Available
+2024-05-12 08:53:31,405 - INFO - Proxy 4 :: 38.54.71.67:80  --  Not Available
+2024-05-12 08:53:33,124 - INFO - Proxy 5 :: 35.185.196.38:3128  --  Available
+2024-05-12 08:53:34,481 - INFO - Proxy 6 :: 52.67.10.183:80  --  Not Available
+2024-05-12 08:53:34,969 - INFO - Proxy 7 :: 162.245.85.220:80  --  Not Available
+2024-05-12 08:53:56,276 - INFO - Proxy 8 :: 103.105.196.98:80  --  Not Available
+2024-05-12 08:54:17,314 - INFO - Proxy 9 :: 3.69.49.95:9080  --  Not Available
+2024-05-12 08:54:18,284 - INFO - Proxy 10 :: 3.212.148.199:3128  --  Not Available
+2024-05-12 08:54:18,300 - INFO - Total time to check all proxies: 0:01:11.864048
+2024-05-12 08:54:18,300 - INFO - Total available proxies for scraping: 2
+
+2024-05-12 08:57:41,035 - INFO - Proxy 1 :: 20.111.54.16:8123  --  Available
+2024-05-12 08:58:02,343 - INFO - Proxy 2 :: 3.110.154.103:8800  --  Not Available
+2024-05-12 08:58:03,104 - INFO - Proxy 3 :: 95.217.178.175:80  --  Not Available
+2024-05-12 08:58:03,849 - INFO - Proxy 4 :: 3.122.84.99:80  --  Not Available
+2024-05-12 08:58:05,298 - INFO - Proxy 5 :: 46.51.249.135:3128  --  Not Available
+2024-05-12 08:58:05,314 - INFO - Total time to check all proxies: 0:00:25.343718
+2024-05-12 08:58:05,314 - INFO - Total available proxies for scraping: 1
+
+2024-05-12 08:59:01,921 - INFO - Proxy 1 :: 102.68.128.211:8080  --  Not Available
+2024-05-12 08:59:02,193 - INFO - Proxy 2 :: 162.223.94.166:80  --  Not Available
+2024-05-12 08:59:03,830 - INFO - Proxy 3 :: 54.179.44.51:3128  --  Not Available
+2024-05-12 08:59:56,974 - INFO - Proxy 4 :: 101.47.4.29:6066  --  Available
+2024-05-12 08:59:57,504 - INFO - Proxy 5 :: 51.20.19.159:3128  --  Not Available
+2024-05-12 08:59:57,504 - INFO - Total time to check all proxies: 0:01:16.861939
+2024-05-12 08:59:57,504 - INFO - Total available proxies for scraping: 1
+
+2024-05-12 09:00:24,260 - INFO - Proxy 1 :: 18.223.25.15:80  --  Not Available
+2024-05-12 09:00:45,316 - INFO - Proxy 2 :: 209.146.104.56:80  --  Not Available
+2024-05-12 09:00:46,195 - INFO - Proxy 3 :: 3.123.150.192:3128  --  Not Available
+2024-05-12 09:00:47,265 - INFO - Proxy 4 :: 52.67.10.183:80  --  Not Available
+2024-05-12 09:01:08,556 - INFO - Proxy 5 :: 102.222.252.182:9999  --  Not Available
+2024-05-12 09:01:08,559 - INFO - Total time to check all proxies: 0:00:45.413506
+2024-05-12 09:01:08,559 - INFO - Total available proxies for scraping: 0
+
+2024-05-12 09:01:15,553 - INFO - Proxy 1 :: 154.65.39.7:80  --  Not Available
+2024-05-12 09:01:16,524 - INFO - Proxy 2 :: 47.56.110.204:8989  --  Not Available
+2024-05-12 09:01:17,227 - INFO - Proxy 3 :: 3.77.153.38:80  --  Not Available
+2024-05-12 09:01:18,718 - INFO - Proxy 4 :: 35.185.196.38:3128  --  Available
+2024-05-12 09:01:20,337 - INFO - Proxy 5 :: 52.65.193.254:3128  --  Not Available
+2024-05-12 09:01:20,347 - INFO - Total time to check all proxies: 0:00:07.605285
+2024-05-12 09:01:20,347 - INFO - Total available proxies for scraping: 1
+
+2024-05-12 09:14:28,740 - INFO - Proxy 1 :: 52.67.10.183:80  --  Not Available
+2024-05-12 09:14:49,784 - INFO - Proxy 2 :: 103.105.196.98:80  --  Not Available
+2024-05-12 09:14:50,505 - INFO - Proxy 3 :: 3.10.175.104:4000  --  Not Available
+2024-05-12 09:14:53,054 - INFO - Proxy 4 :: 193.151.143.207:443  --  Not Available
+2024-05-12 09:14:53,573 - INFO - Proxy 5 :: 13.37.89.201:3128  --  Not Available
+2024-05-12 09:14:53,581 - INFO - Total time to check all proxies: 0:00:25.914621
+2024-05-12 09:14:53,581 - INFO - Total available proxies for scraping: 0
+
+2024-05-12 09:15:05,530 - INFO - Proxy 1 :: 190.103.177.131:80  --  Not Available
+2024-05-12 09:15:06,937 - INFO - Proxy 2 :: 51.145.176.250:8080  --  Available
+2024-05-12 09:15:07,636 - INFO - Proxy 3 :: 3.127.62.252:80  --  Not Available
+2024-05-12 09:15:09,061 - INFO - Proxy 4 :: 35.72.118.126:80  --  Not Available
+2024-05-12 09:15:09,337 - INFO - Proxy 5 :: 162.223.94.166:80  --  Not Available
+2024-05-12 09:15:09,337 - INFO - Total time to check all proxies: 0:00:04.938535
+2024-05-12 09:15:09,337 - INFO - Total available proxies for scraping: 1
+
+2024-05-12 09:21:01,199 - INFO - Proxy 1 :: 20.24.43.214:80  --  Available
+2024-05-12 09:21:02,406 - INFO - Proxy 2 :: 13.56.192.187:80  --  Not Available
+2024-05-12 09:21:14,180 - INFO - Proxy 3 :: 101.47.4.29:6066  --  Not Available
+2024-05-12 09:21:14,716 - INFO - Proxy 4 :: 13.37.89.201:3128  --  Not Available
+2024-05-12 09:21:36,026 - INFO - Proxy 5 :: 178.128.200.87:80  --  Not Available
+2024-05-12 09:21:36,026 - INFO - Total time to check all proxies: 0:00:37.126228
+2024-05-12 09:21:36,026 - INFO - Total available proxies for scraping: 1
+
+2024-05-12 09:26:49,638 - INFO - Proxy 1 :: 54.64.207.194:13  --  Not Available
+2024-05-12 09:26:50,154 - INFO - Proxy 2 :: 51.20.19.159:3128  --  Not Available
+2024-05-12 09:26:55,948 - INFO - Proxy 3 :: 45.188.164.48:999  --  Available
+2024-05-12 09:26:57,208 - INFO - Proxy 4 :: 37.27.29.181:80  --  Not Available
+2024-05-12 09:26:58,656 - INFO - Proxy 5 :: 46.51.249.135:3128  --  Not Available
+2024-05-12 09:26:58,656 - INFO - Total time to check all proxies: 0:00:30.311266
+2024-05-12 09:26:58,656 - INFO - Total available proxies for scraping: 1
+
+2024-05-12 09:30:19,992 - INFO - Proxy 1 :: 178.128.200.87:80  --  Not Available
+2024-05-12 09:30:20,525 - INFO - Proxy 2 :: 12.186.205.120:80  --  Not Available
+2024-05-12 09:30:41,571 - INFO - Proxy 3 :: 102.222.252.182:9999  --  Not Available
+2024-05-12 09:30:43,136 - INFO - Proxy 4 :: 35.72.118.126:80  --  Not Available
+2024-05-12 09:30:43,879 - INFO - Proxy 5 :: 3.127.62.252:80  --  Not Available
+2024-05-12 09:30:43,879 - INFO - Total time to check all proxies: 0:00:44.931702
+2024-05-12 09:30:43,879 - INFO - Total available proxies for scraping: 0
+
+2024-05-12 09:31:49,490 - INFO - Proxy 1 :: 95.217.178.175:80  --  Not Available
+2024-05-12 09:31:52,052 - INFO - Proxy 2 :: 20.205.61.143:80  --  Available
+2024-05-12 09:32:13,095 - INFO - Proxy 3 :: 3.69.49.95:9080  --  Not Available
+2024-05-12 09:32:13,768 - INFO - Proxy 4 :: 103.163.51.254:80  --  Not Available
+2024-05-12 09:32:14,102 - INFO - Proxy 5 :: 51.210.19.141:80  --  Not Available
+2024-05-12 09:32:14,102 - INFO - Total time to check all proxies: 0:00:25.103812
+2024-05-12 09:32:14,102 - INFO - Total available proxies for scraping: 1
+
+2024-05-12 09:32:38,096 - INFO - Proxy 1 :: 212.107.29.43:80  --  Not Available
+2024-05-12 09:32:38,708 - INFO - Proxy 2 :: 95.217.178.175:80  --  Not Available
+2024-05-12 09:32:39,574 - INFO - Proxy 3 :: 190.103.177.131:80  --  Not Available
+2024-05-12 09:33:00,865 - INFO - Proxy 4 :: 111.247.40.241:80  --  Not Available
+2024-05-12 09:33:03,303 - INFO - Proxy 5 :: 54.248.238.110:80  --  Not Available
+2024-05-12 09:33:03,313 - INFO - Total time to check all proxies: 0:00:28.344768
+2024-05-12 09:33:03,313 - INFO - Total available proxies for scraping: 0
+
+2024-05-12 09:33:07,866 - INFO - Proxy 1 :: 47.56.110.204:8989  --  Not Available
+2024-05-12 09:33:08,615 - INFO - Proxy 2 :: 3.212.148.199:3128  --  Not Available
+2024-05-12 09:33:08,911 - INFO - Proxy 3 :: 51.89.73.162:80  --  Not Available
+2024-05-12 09:33:10,370 - INFO - Proxy 4 :: 188.121.118.32:80  --  Not Available
+2024-05-12 09:33:31,425 - INFO - Proxy 5 :: 45.188.164.48:999  --  Not Available
+2024-05-12 09:33:31,425 - INFO - Total time to check all proxies: 0:00:24.200082
+2024-05-12 09:33:31,425 - INFO - Total available proxies for scraping: 0
+
+2024-05-12 09:33:38,223 - INFO - Proxy 1 :: 104.222.32.110:80  --  Not Available
+2024-05-12 09:33:40,300 - INFO - Proxy 2 :: 3.122.84.99:80  --  Not Available
+2024-05-12 09:33:40,369 - INFO - Proxy 3 :: 51.210.19.141:80  --  Not Available
+2024-05-12 09:34:01,414 - INFO - Proxy 4 :: 102.68.128.211:8080  --  Not Available
+2024-05-12 09:34:01,709 - INFO - Proxy 5 :: 162.223.94.166:80  --  Not Available
+2024-05-12 09:34:01,709 - INFO - Total time to check all proxies: 0:00:23.986351
+2024-05-12 09:34:01,709 - INFO - Total available proxies for scraping: 0
+
+2024-05-12 09:34:06,790 - INFO - Proxy 1 :: 37.27.81.120:80  --  Not Available
+2024-05-12 09:34:07,683 - INFO - Proxy 2 :: 51.16.199.206:3128  --  Not Available
+2024-05-12 09:34:28,971 - INFO - Proxy 3 :: 101.51.139.219:8180  --  Not Available
+2024-05-12 09:35:52,096 - INFO - Proxy 1 :: 154.208.10.126:80  --  Not Available
+2024-05-12 09:35:53,079 - INFO - Proxy 2 :: 54.67.125.45:3128  --  Not Available
+2024-05-12 09:35:54,122 - INFO - Proxy 3 :: 3.12.144.146:3128  --  Not Available
+2024-05-12 09:35:54,348 - INFO - Proxy 4 :: 154.65.39.7:80  --  Not Available
+2024-05-12 09:38:26,581 - INFO - Proxy 1 :: 154.65.39.7:80  --  Not Available
+2024-05-12 09:38:28,348 - INFO - Proxy 2 :: 51.89.73.162:80  --  Not Available
+2024-05-12 09:38:31,732 - INFO - Proxy 3 :: 38.54.71.67:80  --  Not Available
+2024-05-12 09:38:52,774 - INFO - Proxy 4 :: 111.247.40.241:80  --  Not Available
+2024-05-12 09:38:53,446 - INFO - Proxy 5 :: 51.16.199.206:3128  --  Not Available
+2024-05-12 09:38:53,446 - INFO - Total time to check all proxies: 0:00:34.621373
+2024-05-12 09:38:53,446 - INFO - Total available proxies for scraping: 0
+
+2024-05-12 09:39:00,908 - INFO - Proxy 1 :: 20.205.61.143:80  --  Available
+2024-05-12 09:39:09,581 - INFO - Proxy 2 :: 103.170.100.96:8080  --  Available
+2024-05-12 09:39:10,289 - INFO - Proxy 3 :: 104.222.32.110:80  --  Not Available
+2024-05-12 09:39:11,744 - INFO - Proxy 4 :: 35.185.196.38:3128  --  Available
+2024-05-12 09:39:12,825 - INFO - Proxy 5 :: 37.27.82.72:80  --  Not Available
+2024-05-12 09:39:12,825 - INFO - Total time to check all proxies: 0:00:14.265023
+2024-05-12 09:39:12,825 - INFO - Total available proxies for scraping: 3
+
+2024-05-12 12:12:16,063 - INFO - Proxy 1 :: 18.206.158.17:3128  --  Not Available
+2024-05-12 12:12:17,121 - INFO - Proxy 2 :: 37.27.82.72:80  --  Not Available
+2024-05-12 12:12:18,116 - INFO - Proxy 3 :: 123.30.154.171:7777  --  Not Available
+2024-05-12 12:12:34,376 - INFO - Proxy 4 :: 83.98.243.181:80  --  Not Available
+2024-05-12 12:12:35,301 - INFO - Proxy 5 :: 3.68.116.206:4000  --  Not Available
+2024-05-12 12:12:35,301 - INFO - Total time to check all proxies: 0:00:40.520482
+2024-05-12 12:12:35,301 - INFO - Total available proxies for scraping: 0
+
+2024-05-12 12:16:52,683 - INFO - Proxy 1 :: 83.98.243.181:80  --  Not Available
+2024-05-12 12:16:53,655 - INFO - Proxy 2 :: 47.56.110.204:8989  --  Not Available
+2024-05-12 12:16:54,813 - INFO - Proxy 3 :: 54.67.125.45:3128  --  Not Available
+2024-05-12 12:18:03,835 - INFO - Proxy 4 :: 185.201.8.166:80  --  Not Available
+2024-05-12 12:18:25,125 - INFO - Proxy 5 :: 103.105.196.98:80  --  Not Available
+2024-05-12 12:18:25,125 - INFO - Total time to check all proxies: 0:01:34.596561
+2024-05-12 12:18:25,125 - INFO - Total available proxies for scraping: 0
+
+2024-05-12 12:21:46,543 - INFO - Proxy 1 :: 192.73.244.36:80  --  Not Available
+2024-05-12 12:21:47,858 - INFO - Proxy 2 :: 18.228.198.164:80  --  Not Available
+2024-05-12 12:21:49,008 - INFO - Proxy 3 :: 190.103.177.131:80  --  Not Available
+2024-05-12 12:22:10,311 - INFO - Proxy 4 :: 54.64.207.194:13  --  Not Available
+2024-05-12 12:22:10,812 - INFO - Proxy 5 :: 116.203.28.43:80  --  Not Available
+2024-05-12 12:22:10,812 - INFO - Total time to check all proxies: 0:00:24.882579
+2024-05-12 12:22:10,812 - INFO - Total available proxies for scraping: 0
+
+2024-05-12 12:23:12,152 - INFO - Proxy 1 :: 103.105.196.128:80  --  Not Available
+2024-05-12 12:23:13,249 - INFO - Proxy 2 :: 20.111.54.16:8123  --  Available
+2024-05-12 12:23:34,572 - INFO - Proxy 3 :: 51.20.19.159:3128  --  Not Available
+2024-05-12 12:23:55,890 - INFO - Proxy 4 :: 3.10.175.104:4000  --  Not Available
+2024-05-12 12:24:17,181 - INFO - Proxy 5 :: 209.146.104.56:80  --  Not Available
+2024-05-12 12:24:17,181 - INFO - Total time to check all proxies: 0:01:26.314470
+2024-05-12 12:24:17,181 - INFO - Total available proxies for scraping: 1
+
+2024-05-12 12:27:40,969 - INFO - Proxy 1 :: 101.47.4.29:6066  --  Not Available
+2024-05-12 12:27:41,800 - INFO - Proxy 2 :: 99.80.11.54:3128  --  Not Available
+2024-05-12 12:28:03,086 - INFO - Proxy 3 :: 194.67.91.153:80  --  Not Available
+2024-05-12 12:28:24,108 - INFO - Proxy 4 :: 18.206.158.17:3128  --  Not Available
+2024-05-12 12:28:24,410 - INFO - Proxy 5 :: 51.89.14.70:80  --  Not Available
+2024-05-12 12:28:24,419 - INFO - Total time to check all proxies: 0:03:27.783441
+2024-05-12 12:28:24,420 - INFO - Total available proxies for scraping: 0
+
+2024-05-12 12:35:54,395 - INFO - Proxy 1 :: 13.56.192.187:80  --  Not Available
+2024-05-12 12:35:57,024 - INFO - Proxy 2 :: 20.205.61.143:80  --  Available
+2024-05-12 12:35:57,823 - INFO - Proxy 3 :: 3.123.150.192:3128  --  Not Available
+2024-05-12 12:35:59,686 - INFO - Proxy 4 :: 3.77.153.38:80  --  Not Available
+2024-05-12 12:36:00,703 - INFO - Proxy 5 :: 3.212.148.199:3128  --  Not Available
+2024-05-12 12:36:00,703 - INFO - Total time to check all proxies: 0:00:27.597029
+2024-05-12 12:36:00,703 - INFO - Total available proxies for scraping: 1
+
+2024-05-12 12:45:05,292 - INFO - Proxy 1 :: 185.201.8.166:80  --  Not Available
+2024-05-12 12:45:08,051 - INFO - Proxy 2 :: 20.210.113.32:8123  --  Available
+2024-05-12 12:45:29,106 - INFO - Proxy 3 :: 194.67.91.153:80  --  Not Available
+2024-05-12 12:45:31,427 - INFO - Proxy 4 :: 20.205.61.143:80  --  Available
+2024-05-12 12:45:32,269 - INFO - Proxy 5 :: 35.180.64.204:16877  --  Not Available
+2024-05-12 12:45:32,269 - INFO - Total time to check all proxies: 0:00:48.010711
+2024-05-12 12:45:32,269 - INFO - Total available proxies for scraping: 2
+
+2024-05-12 12:50:16,105 - INFO - Proxy 1 :: 3.37.125.76:3128  --  Not Available
+2024-05-12 12:50:37,424 - INFO - Proxy 2 :: 52.67.10.183:80  --  Not Available
+2024-05-12 12:50:38,288 - INFO - Proxy 3 :: 20.111.54.16:8123  --  Available
+2024-05-12 12:50:38,993 - INFO - Proxy 4 :: 47.56.110.204:8989  --  Not Available
+2024-05-12 12:50:40,433 - INFO - Proxy 5 :: 35.72.118.126:80  --  Not Available
+2024-05-12 12:50:40,433 - INFO - Total time to check all proxies: 0:00:25.952720
+2024-05-12 12:50:40,433 - INFO - Total available proxies for scraping: 1
+
+2024-05-12 13:40:34,924 - INFO - Proxy 1 :: 37.27.29.181:80  --  Not Available
+2024-05-12 13:40:35,256 - INFO - Proxy 2 :: 51.89.73.162:80  --  Not Available
+2024-05-12 13:40:36,363 - INFO - Proxy 3 :: 103.130.145.169:80  --  Not Available
+2024-05-12 13:40:37,598 - INFO - Proxy 4 :: 18.223.25.15:80  --  Not Available
+2024-05-12 13:40:38,412 - INFO - Proxy 5 :: 95.217.178.175:80  --  Not Available
+2024-05-12 13:40:38,412 - INFO - Total time to check all proxies: 0:00:04.518757
+2024-05-12 13:40:38,412 - INFO - Total available proxies for scraping: 0
+
+2024-05-12 13:41:08,103 - INFO - Proxy 1 :: 209.146.104.56:80  --  Not Available
+2024-05-12 13:41:08,916 - INFO - Proxy 2 :: 37.27.29.181:80  --  Not Available
+2024-05-12 13:41:11,299 - INFO - Proxy 3 :: 20.206.106.192:8123  --  Available
+2024-05-12 13:41:12,265 - INFO - Proxy 4 :: 35.180.64.204:16877  --  Not Available
+2024-05-12 13:41:33,593 - INFO - Proxy 5 :: 103.170.100.96:8080  --  Not Available
+2024-05-12 13:41:33,596 - INFO - Total time to check all proxies: 0:00:46.533445
+2024-05-12 13:41:33,596 - INFO - Total available proxies for scraping: 1
+
+2024-05-12 14:47:56,041 - INFO - Proxy 1 :: 51.210.19.141:80  --  Not Available
+2024-05-12 14:59:26,320 - INFO - Proxy 1 :: 51.145.176.250:8080  --  Available
+2024-05-12 14:59:28,065 - INFO - Proxy 2 :: 212.107.29.43:80  --  Not Available
+2024-05-12 14:59:28,993 - INFO - Proxy 3 :: 154.208.10.126:80  --  Not Available
+2024-05-12 14:59:31,748 - INFO - Proxy 4 :: 116.203.28.43:80  --  Not Available
+2024-05-12 14:59:39,219 - INFO - Proxy 5 :: 102.68.128.211:8080  --  Available
+2024-05-12 14:59:39,251 - INFO - Total time to check all proxies: 0:00:21.204575
+2024-05-12 14:59:39,251 - INFO - Total available proxies for scraping: 2
+
+2024-05-12 15:05:39,984 - INFO - Proxy 1 :: 54.233.119.172:3128  --  Not Available
+2024-05-12 15:05:41,425 - INFO - Proxy 2 :: 54.67.125.45:3128  --  Not Available
+2024-05-12 15:05:43,253 - INFO - Proxy 3 :: 54.179.44.51:3128  --  Not Available
+2024-05-12 15:09:52,684 - INFO - Proxy 1 :: 3.110.154.103:8800  --  Not Available
+2024-05-12 15:09:54,877 - INFO - Proxy 2 :: 20.206.106.192:8123  --  Available
+2024-05-12 15:10:16,153 - INFO - Proxy 3 :: 3.69.49.95:9080  --  Not Available
+2024-05-12 15:10:17,689 - INFO - Proxy 4 :: 54.248.238.110:80  --  Not Available
+2024-05-12 15:10:18,502 - INFO - Proxy 5 :: 37.27.81.120:80  --  Not Available
+2024-05-12 15:10:20,482 - INFO - Proxy 6 :: 35.180.64.204:16877  --  Not Available
+2024-05-12 15:10:20,482 - INFO - Total time to check all proxies: 0:00:49.108872
+2024-05-12 15:10:20,482 - INFO - Total available proxies for scraping: 1
+
+2024-05-12 15:18:35,929 - INFO - Proxy 1 :: 123.30.154.171:7777  --  Not Available
+2024-05-12 15:18:37,202 - INFO - Proxy 2 :: 18.185.169.150:3128  --  Not Available
+2024-05-12 15:18:43,955 - INFO - Proxy 3 :: 51.145.176.250:8080  --  Available
+2024-05-12 15:18:44,574 - INFO - Proxy 4 :: 162.223.94.166:80  --  Not Available
+2024-05-12 15:18:45,898 - INFO - Proxy 5 :: 20.111.54.16:8123  --  Available
+2024-05-12 15:18:46,823 - INFO - Proxy 6 :: 51.20.19.159:3128  --  Not Available
+2024-05-12 15:18:46,823 - INFO - Total time to check all proxies: 0:00:11.890809
+2024-05-12 15:18:46,823 - INFO - Total available proxies for scraping: 2
+
+2024-05-12 15:22:25,861 - INFO - Proxy 1 :: 3.127.62.252:80  --  Not Available
+2024-05-12 15:22:47,171 - INFO - Proxy 2 :: 3.10.175.104:4000  --  Not Available
+2024-05-12 15:22:47,997 - INFO - Proxy 3 :: 3.122.84.99:80  --  Not Available
+2024-05-12 15:22:49,891 - INFO - Proxy 4 :: 216.137.184.253:80  --  Not Available
+2024-05-12 15:22:53,098 - INFO - Proxy 5 :: 20.24.43.214:80  --  Available
+2024-05-12 15:22:55,655 - INFO - Proxy 6 :: 116.203.28.43:80  --  Not Available
+2024-05-12 15:22:55,655 - INFO - Total time to check all proxies: 0:00:37.779751
+2024-05-12 15:22:55,655 - INFO - Total available proxies for scraping: 1
+
+2024-05-12 15:23:57,894 - INFO - Proxy 1 :: 3.127.62.252:80  --  Not Available
+2024-05-12 15:24:18,960 - INFO - Proxy 2 :: 3.10.175.104:4000  --  Not Available
+2024-05-12 15:24:19,524 - INFO - Proxy 3 :: 3.122.84.99:80  --  Not Available
+2024-05-12 15:24:20,126 - INFO - Proxy 4 :: 216.137.184.253:80  --  Not Available
+2024-05-12 15:24:22,687 - INFO - Proxy 5 :: 20.24.43.214:80  --  Available
+2024-05-12 15:24:25,150 - INFO - Proxy 6 :: 116.203.28.43:80  --  Not Available
+2024-05-12 15:24:25,150 - INFO - Total time to check all proxies: 0:00:27.793168
+2024-05-12 15:24:25,150 - INFO - Total available proxies for scraping: 1
+
+2024-05-12 15:25:23,005 - INFO - Proxy 1 :: 35.180.64.204:16877  --  Not Available
+2024-05-12 15:25:24,024 - INFO - Proxy 2 :: 3.68.116.206:4000  --  Not Available
+2024-05-12 15:25:45,360 - INFO - Proxy 3 :: 178.128.200.87:80  --  Not Available
+2024-05-12 15:26:06,650 - INFO - Proxy 4 :: 18.206.158.17:3128  --  Not Available
+2024-05-12 15:26:07,559 - INFO - Proxy 5 :: 95.217.178.175:80  --  Not Available
+2024-05-12 15:29:37,168 - INFO - Proxy 1 :: 103.163.51.254:80  --  Not Available
+2024-05-12 15:29:37,881 - INFO - Proxy 2 :: 12.186.205.120:80  --  Not Available
+2024-05-12 15:29:43,818 - INFO - Proxy 3 :: 216.137.184.253:80  --  Not Available
+2024-05-12 15:29:45,972 - INFO - Proxy 4 :: 20.206.106.192:8123  --  Available
+2024-05-12 15:29:46,584 - INFO - Proxy 5 :: 18.185.169.150:3128  --  Not Available
+2024-05-12 15:29:53,649 - INFO - Proxy 6 :: 162.223.94.164:80  --  Not Available
+2024-05-12 15:29:53,649 - INFO - Total time to check all proxies: 0:00:17.270269
+2024-05-12 15:29:53,649 - INFO - Total available proxies for scraping: 1
+
+2024-05-12 16:19:57,246 - INFO - Proxy 1 :: 12.186.205.120:80  --  Not Available
+2024-05-12 16:19:58,063 - INFO - Proxy 2 :: 3.123.150.192:3128  --  Not Available
+2024-05-12 16:19:59,098 - INFO - Proxy 3 :: 13.37.59.99:3128  --  Not Available
+2024-05-12 16:20:00,620 - INFO - Proxy 4 :: 54.179.44.51:3128  --  Not Available
+2024-05-12 16:20:01,352 - INFO - Proxy 5 :: 18.185.169.150:3128  --  Not Available
+2024-05-12 16:20:02,575 - INFO - Proxy 6 :: 54.233.119.172:3128  --  Not Available
+2024-05-12 16:20:02,575 - INFO - Total time to check all proxies: 0:00:05.711976
+2024-05-12 16:20:02,575 - INFO - Total available proxies for scraping: 0
+
+2024-05-12 16:21:32,671 - INFO - Proxy 1 :: 0.0.0.0:8080  --  Not Available
+2024-05-12 16:21:32,676 - INFO - Proxy 2 :: 0.0.0.0:8080  --  Not Available
+2024-05-12 16:21:32,677 - INFO - Proxy 3 :: 0.0.0.0:8080  --  Not Available
+2024-05-12 16:21:32,681 - INFO - Proxy 4 :: 0.0.0.0:8080  --  Not Available
+2024-05-12 16:21:32,684 - INFO - Proxy 5 :: 0.0.0.0:8080  --  Not Available
+2024-05-12 16:21:32,686 - INFO - Proxy 6 :: 0.0.0.0:8080  --  Not Available
+2024-05-12 16:21:32,686 - INFO - Total time to check all proxies: 0:00:00.025305
+2024-05-12 16:21:32,686 - INFO - Total available proxies for scraping: 0
+
+2024-05-12 16:21:49,362 - INFO - Proxy 1 :: 0.0.0.0:8080  --  Not Available
+2024-05-12 16:21:49,369 - INFO - Proxy 2 :: 0.0.0.0:8080  --  Not Available
+2024-05-12 16:21:49,369 - INFO - Proxy 3 :: 0.0.0.0:8080  --  Not Available
+2024-05-12 16:21:49,374 - INFO - Proxy 4 :: 0.0.0.0:8080  --  Not Available
+2024-05-12 16:21:49,374 - INFO - Proxy 5 :: 0.0.0.0:8080  --  Not Available
+2024-05-12 16:21:49,379 - INFO - Proxy 6 :: 0.0.0.0:8080  --  Not Available
+2024-05-12 16:21:49,382 - INFO - Total time to check all proxies: 0:00:00.036233
+2024-05-12 16:21:49,383 - INFO - Total available proxies for scraping: 0
+
+2024-05-12 16:22:20,021 - INFO - Proxy 1 :: 0.0.0.0:8080  --  Not Available
+2024-05-12 16:22:20,021 - INFO - Proxy 2 :: 0.0.0.0:8080  --  Not Available
+2024-05-12 16:22:20,030 - INFO - Proxy 3 :: 0.0.0.0:8080  --  Not Available
+2024-05-12 16:22:20,034 - INFO - Proxy 4 :: 0.0.0.0:8080  --  Not Available
+2024-05-12 16:22:20,034 - INFO - Proxy 5 :: 0.0.0.0:8080  --  Not Available
+2024-05-12 16:22:20,041 - INFO - Proxy 6 :: 0.0.0.0:8080  --  Not Available
+2024-05-12 16:22:20,042 - INFO - Total time to check all proxies: 0:00:00.031542
+2024-05-12 16:22:20,042 - INFO - Total available proxies for scraping: 0
+
+2024-05-12 16:22:25,668 - INFO - Proxy 1 :: 0.0.0.0:8080  --  Not Available
+2024-05-12 16:22:25,670 - INFO - Proxy 2 :: 0.0.0.0:8080  --  Not Available
+2024-05-12 16:22:25,675 - INFO - Proxy 3 :: 0.0.0.0:8080  --  Not Available
+2024-05-12 16:22:25,680 - INFO - Proxy 4 :: 0.0.0.0:8080  --  Not Available
+2024-05-12 16:22:25,685 - INFO - Proxy 5 :: 0.0.0.0:8080  --  Not Available
+2024-05-12 16:22:25,688 - INFO - Proxy 6 :: 0.0.0.0:8080  --  Not Available
+2024-05-12 16:22:25,688 - INFO - Total time to check all proxies: 0:00:00.027983
+2024-05-12 16:22:25,688 - INFO - Total available proxies for scraping: 0
+
+2024-05-12 16:40:23,291 - INFO - Proxy 1 :: 13.56.192.187:80  --  Not Available
+2024-05-12 16:40:23,994 - INFO - Proxy 2 :: 18.185.169.150:3128  --  Not Available
+2024-05-12 16:40:24,825 - INFO - Proxy 3 :: 20.205.61.143:80  --  Not Available
+2024-05-12 16:40:26,459 - INFO - Proxy 4 :: 54.179.44.51:3128  --  Not Available
+2024-05-12 16:40:29,474 - INFO - Proxy 5 :: 45.43.32.228:80  --  Not Available
+2024-05-12 16:40:30,350 - INFO - Proxy 6 :: 13.37.89.201:3128  --  Not Available
+2024-05-12 16:40:30,350 - INFO - Total time to check all proxies: 0:00:08.484155
+2024-05-12 16:40:30,350 - INFO - Total available proxies for scraping: 0
+
+2024-05-12 16:42:28,515 - INFO - Proxy 1 :: 13.56.192.187:80  --  Not Available
+2024-05-12 16:42:29,131 - INFO - Proxy 2 :: 18.185.169.150:3128  --  Not Available
+2024-05-12 16:42:29,739 - INFO - Proxy 3 :: 20.205.61.143:80  --  Not Available
+2024-05-12 16:42:31,398 - INFO - Proxy 4 :: 54.179.44.51:3128  --  Not Available
+2024-05-12 16:42:34,421 - INFO - Proxy 5 :: 45.43.32.228:80  --  Not Available
+2024-05-12 16:42:35,087 - INFO - Proxy 6 :: 13.37.89.201:3128  --  Not Available
+2024-05-12 16:42:35,087 - INFO - Total time to check all proxies: 0:00:07.642098
+2024-05-12 16:42:35,087 - INFO - Total available proxies for scraping: 0
+
+2024-05-12 16:42:46,123 - INFO - Proxy 1 :: 13.56.192.187:80  --  Not Available
+2024-05-12 16:42:46,843 - INFO - Proxy 2 :: 18.185.169.150:3128  --  Not Available
+2024-05-12 16:42:47,457 - INFO - Proxy 3 :: 20.205.61.143:80  --  Not Available
+2024-05-12 16:42:49,093 - INFO - Proxy 4 :: 54.179.44.51:3128  --  Not Available
+2024-05-12 16:42:52,123 - INFO - Proxy 5 :: 45.43.32.228:80  --  Not Available
+2024-05-12 16:42:52,780 - INFO - Proxy 6 :: 13.37.89.201:3128  --  Not Available
+2024-05-12 16:42:52,796 - INFO - Total time to check all proxies: 0:00:07.769144
+2024-05-12 16:42:52,796 - INFO - Total available proxies for scraping: 0
+
+2024-05-12 16:43:10,500 - INFO - Proxy 1 :: 13.56.192.187:80  --  Not Available
+2024-05-12 16:43:11,218 - INFO - Proxy 2 :: 18.185.169.150:3128  --  Not Available
+2024-05-12 16:43:11,834 - INFO - Proxy 3 :: 20.205.61.143:80  --  Not Available
+2024-05-12 16:43:13,589 - INFO - Proxy 4 :: 54.179.44.51:3128  --  Not Available
+2024-05-12 16:43:16,602 - INFO - Proxy 5 :: 45.43.32.228:80  --  Not Available
+2024-05-12 16:43:17,263 - INFO - Proxy 6 :: 13.37.89.201:3128  --  Not Available
+2024-05-12 16:43:17,263 - INFO - Total time to check all proxies: 0:00:07.825394
+2024-05-12 16:43:17,263 - INFO - Total available proxies for scraping: 0
+
+2024-05-12 16:44:42,966 - INFO - Proxy 1 :: 102.68.128.211:8080  --  Not Available
+2024-05-12 16:44:46,156 - INFO - Proxy 2 :: 194.67.91.153:80  --  Not Available
+2024-05-12 16:44:49,557 - INFO - Proxy 3 :: 154.65.39.7:80  --  Not Available
+2024-05-12 16:44:52,570 - INFO - Proxy 4 :: 193.151.143.207:443  --  Not Available
+2024-05-12 16:44:53,213 - INFO - Proxy 5 :: 13.37.59.99:3128  --  Not Available
+2024-05-12 16:44:53,413 - INFO - Proxy 6 :: 20.111.54.16:8123  --  Not Available
+2024-05-12 16:44:54,435 - INFO - Proxy 7 :: 52.16.232.164:3128  --  Not Available
+2024-05-12 16:44:55,471 - INFO - Proxy 8 :: 37.27.29.181:80  --  Not Available
+2024-05-12 16:44:58,486 - INFO - Proxy 9 :: 111.247.40.241:80  --  Not Available
+2024-05-12 16:44:59,465 - INFO - Proxy 10 :: 3.77.153.38:80  --  Not Available
+2024-05-12 16:44:59,465 - INFO - Total time to check all proxies: 0:00:19.525298
+2024-05-12 16:44:59,465 - INFO - Total available proxies for scraping: 0
+
+2024-05-12 16:45:08,823 - INFO - Proxy 1 :: 102.68.128.211:8080  --  Not Available
+2024-05-12 16:45:11,983 - INFO - Proxy 2 :: 194.67.91.153:80  --  Not Available
+2024-05-12 16:45:13,981 - INFO - Proxy 3 :: 154.65.39.7:80  --  Not Available
+2024-05-12 16:45:16,662 - INFO - Proxy 4 :: 193.151.143.207:443  --  Not Available
+2024-05-12 16:45:17,278 - INFO - Proxy 5 :: 13.37.59.99:3128  --  Not Available
+2024-05-12 16:45:17,484 - INFO - Proxy 6 :: 20.111.54.16:8123  --  Not Available
+2024-05-12 16:45:18,296 - INFO - Proxy 7 :: 52.16.232.164:3128  --  Not Available
+2024-05-12 16:45:21,407 - INFO - Proxy 8 :: 37.27.29.181:80  --  Not Available
+2024-05-12 16:45:24,421 - INFO - Proxy 9 :: 111.247.40.241:80  --  Not Available
+2024-05-12 16:45:25,014 - INFO - Proxy 10 :: 3.77.153.38:80  --  Not Available
+2024-05-12 16:45:25,014 - INFO - Total time to check all proxies: 0:00:20.332580
+2024-05-12 16:45:25,014 - INFO - Total available proxies for scraping: 0
+
+2024-05-12 16:49:46,581 - INFO - Proxy 1 :: 54.67.125.45:3128  --  Not Available
+2024-05-12 16:49:47,028 - INFO - Proxy 2 :: 37.27.29.181:80  --  Not Available
+2024-05-12 16:49:50,031 - INFO - Proxy 3 :: 103.110.36.18:82  --  Not Available
+2024-05-12 16:49:53,995 - INFO - Proxy 4 :: 83.98.243.181:80  --  Not Available
+2024-05-12 16:49:55,090 - INFO - Proxy 5 :: 51.16.199.206:3128  --  Not Available
+2024-05-12 16:49:55,293 - INFO - Proxy 6 :: 20.111.54.16:8123  --  Not Available
+2024-05-12 16:49:56,011 - INFO - Proxy 7 :: 38.54.71.67:80  --  Not Available
+2024-05-12 16:49:59,025 - INFO - Proxy 8 :: 102.222.252.182:9999  --  Not Available
+2024-05-12 16:49:59,699 - INFO - Proxy 9 :: 3.123.150.192:3128  --  Not Available
+2024-05-12 16:50:02,725 - INFO - Proxy 10 :: 102.68.128.211:8080  --  Not Available
+2024-05-12 16:50:02,725 - INFO - Total time to check all proxies: 0:00:17.086752
+2024-05-12 16:50:02,725 - INFO - Total available proxies for scraping: 0
+
+2024-05-12 16:50:08,502 - INFO - Proxy 1 :: 54.67.125.45:3128  --  Not Available
+2024-05-12 16:50:09,003 - INFO - Proxy 2 :: 37.27.29.181:80  --  Not Available
+2024-05-12 16:50:12,003 - INFO - Proxy 3 :: 103.110.36.18:82  --  Not Available
+2024-05-12 16:50:15,100 - INFO - Proxy 4 :: 83.98.243.181:80  --  Not Available
+2024-05-12 16:50:15,744 - INFO - Proxy 5 :: 51.16.199.206:3128  --  Not Available
+2024-05-12 16:50:15,813 - INFO - Proxy 6 :: 20.111.54.16:8123  --  Not Available
+2024-05-12 16:50:16,288 - INFO - Proxy 7 :: 38.54.71.67:80  --  Not Available
+2024-05-12 16:50:19,303 - INFO - Proxy 8 :: 102.222.252.182:9999  --  Not Available
+2024-05-12 16:50:20,987 - INFO - Proxy 9 :: 3.123.150.192:3128  --  Not Available
+2024-05-12 16:50:24,010 - INFO - Proxy 10 :: 102.68.128.211:8080  --  Not Available
+2024-05-12 16:50:24,010 - INFO - Total time to check all proxies: 0:00:16.538005
+2024-05-12 16:50:24,010 - INFO - Total available proxies for scraping: 0
+
+2024-05-12 16:50:43,820 - INFO - Proxy 1 :: 38.54.71.67:80  --  Not Available
+2024-05-12 16:50:44,543 - INFO - Proxy 2 :: 52.16.232.164:3128  --  Not Available
+2024-05-12 16:50:46,291 - INFO - Proxy 3 :: 52.65.193.254:3128  --  Not Available
+2024-05-12 16:50:47,007 - INFO - Proxy 4 :: 3.123.150.192:3128  --  Not Available
+2024-05-12 16:50:47,927 - INFO - Proxy 5 :: 3.70.179.165:80  --  Not Available
+2024-05-12 16:50:50,938 - INFO - Proxy 6 :: 3.69.49.95:9080  --  Not Available
+2024-05-12 16:50:53,807 - INFO - Proxy 7 :: 193.151.143.207:443  --  Not Available
+2024-05-12 16:50:56,813 - INFO - Proxy 8 :: 45.43.32.228:80  --  Not Available
+2024-05-12 16:50:59,819 - INFO - Proxy 9 :: 3.110.154.103:8800  --  Not Available
+2024-05-12 16:51:01,125 - INFO - Proxy 10 :: 190.103.177.131:80  --  Not Available
+2024-05-12 16:51:01,125 - INFO - Total time to check all proxies: 0:00:17.800635
+2024-05-12 16:51:01,125 - INFO - Total available proxies for scraping: 0
+
+2024-05-12 16:51:06,244 - INFO - Proxy 1 :: 38.54.71.67:80  --  Not Available
+2024-05-12 16:51:07,984 - INFO - Proxy 2 :: 52.16.232.164:3128  --  Not Available
+2024-05-12 16:51:09,518 - INFO - Proxy 3 :: 52.65.193.254:3128  --  Not Available
+2024-05-12 16:51:10,239 - INFO - Proxy 4 :: 3.123.150.192:3128  --  Not Available
+2024-05-12 16:51:13,264 - INFO - Proxy 5 :: 3.70.179.165:80  --  Not Available
+2024-05-12 16:51:16,276 - INFO - Proxy 6 :: 3.69.49.95:9080  --  Not Available
+2024-05-12 16:51:18,933 - INFO - Proxy 7 :: 193.151.143.207:443  --  Not Available
+2024-05-12 16:51:21,945 - INFO - Proxy 8 :: 45.43.32.228:80  --  Not Available
+2024-05-12 16:51:24,950 - INFO - Proxy 9 :: 3.110.154.103:8800  --  Not Available
+2024-05-12 16:51:28,308 - INFO - Proxy 10 :: 190.103.177.131:80  --  Not Available
+2024-05-12 16:51:28,308 - INFO - Total time to check all proxies: 0:00:22.621880
+2024-05-12 16:51:28,308 - INFO - Total available proxies for scraping: 0
+
+2024-05-12 17:28:13,139 - INFO - Proxy 1 :: 13.37.235.66:4000  --  Not Available
+2024-05-12 17:28:15,515 - INFO - Proxy 2 :: 20.24.43.214:80  --  Available
+2024-05-12 17:28:16,044 - INFO - Proxy 3 :: 103.163.51.254:80  --  Not Available
+2024-05-12 17:28:16,541 - INFO - Proxy 4 :: 157.245.14.43:8888  --  Not Available
+2024-05-12 17:28:18,841 - INFO - Proxy 5 :: 13.212.121.49:8888  --  Not Available
+2024-05-12 17:28:22,431 - INFO - Proxy 6 :: 119.28.60.64:8090  --  Not Available
+2024-05-12 17:28:23,024 - INFO - Proxy 7 :: 51.89.14.70:80  --  Not Available
+2024-05-12 17:28:24,341 - INFO - Proxy 8 :: 3.127.121.101:3128  --  Not Available
+2024-05-12 17:28:24,684 - INFO - Proxy 9 :: 65.21.159.49:80  --  Not Available
+2024-05-12 17:28:25,701 - INFO - Proxy 10 :: 103.127.1.130:80  --  Not Available
+2024-05-12 17:28:25,701 - INFO - Total time to check all proxies: 0:00:13.099123
+2024-05-12 17:28:25,701 - INFO - Total available proxies for scraping: 1
+
+2024-05-12 17:29:22,008 - INFO - Proxy 1 :: 13.37.235.66:4000  --  Not Available
+2024-05-12 17:29:24,379 - INFO - Proxy 2 :: 20.24.43.214:80  --  Available
+2024-05-12 17:29:24,804 - INFO - Proxy 3 :: 103.163.51.254:80  --  Not Available
+2024-05-12 17:29:25,041 - INFO - Proxy 4 :: 157.245.14.43:8888  --  Not Available
+2024-05-12 17:29:26,538 - INFO - Proxy 5 :: 13.212.121.49:8888  --  Not Available
+2024-05-12 17:29:29,541 - INFO - Proxy 6 :: 119.28.60.64:8090  --  Not Available
+2024-05-12 17:29:29,596 - INFO - Proxy 7 :: 51.89.14.70:80  --  Not Available
+2024-05-12 17:29:30,113 - INFO - Proxy 8 :: 3.127.121.101:3128  --  Not Available
+2024-05-12 17:29:30,213 - INFO - Proxy 9 :: 65.21.159.49:80  --  Not Available
+2024-05-12 17:29:33,027 - INFO - Proxy 10 :: 103.127.1.130:80  --  Not Available
+2024-05-12 17:29:33,029 - INFO - Total time to check all proxies: 0:00:11.597486
+2024-05-12 17:29:33,029 - INFO - Total available proxies for scraping: 1
+
+2024-05-12 17:34:18,572 - INFO - Proxy 1 :: 18.223.25.15:80  --  Not Available
+2024-05-12 17:34:19,157 - INFO - Proxy 2 :: 3.122.84.99:80  --  Not Available
+2024-05-12 17:34:19,958 - INFO - Proxy 3 :: 13.36.113.81:3128  --  Not Available
+2024-05-12 17:34:20,453 - INFO - Proxy 4 :: 13.38.176.104:3128  --  Not Available
+2024-05-12 17:34:21,131 - INFO - Proxy 5 :: 173.213.71.6:80  --  Not Available
+2024-05-12 17:34:22,556 - INFO - Proxy 6 :: 35.185.196.38:3128  --  Available
+2024-05-12 17:34:22,556 - INFO - Total time to check all proxies: 0:00:04.867933
+2024-05-12 17:34:22,556 - INFO - Total available proxies for scraping: 1
+
+2024-05-12 17:34:44,881 - INFO - Proxy 1 :: 18.223.25.15:80  --  Not Available
+2024-05-12 17:34:45,379 - INFO - Proxy 2 :: 3.122.84.99:80  --  Not Available
+2024-05-12 17:34:45,865 - INFO - Proxy 3 :: 13.36.113.81:3128  --  Not Available
+2024-05-12 17:34:46,368 - INFO - Proxy 4 :: 13.38.176.104:3128  --  Not Available
+2024-05-12 17:34:47,052 - INFO - Proxy 5 :: 173.213.71.6:80  --  Not Available
+2024-05-12 17:34:48,476 - INFO - Proxy 6 :: 35.185.196.38:3128  --  Available
+2024-05-12 17:34:48,476 - INFO - Total time to check all proxies: 0:00:04.441606
+2024-05-12 17:34:48,476 - INFO - Total available proxies for scraping: 1
+
+2024-05-12 17:36:47,962 - INFO - Proxy 1 :: 154.236.189.23:1981  --  Not Available
+2024-05-12 17:36:50,974 - INFO - Proxy 2 :: 172.232.216.110:22027  --  Not Available
+2024-05-12 17:36:53,979 - INFO - Proxy 3 :: 3.127.121.101:3128  --  Not Available
+2024-05-12 17:36:55,159 - INFO - Proxy 4 :: 46.51.249.135:3128  --  Not Available
+2024-05-12 17:36:55,408 - INFO - Proxy 5 :: 104.222.32.110:80  --  Not Available
+2024-05-12 17:36:56,600 - INFO - Proxy 6 :: 35.79.120.242:3128  --  Not Available
+2024-05-12 17:36:57,086 - INFO - Proxy 7 :: 3.124.115.88:8080  --  Not Available
+2024-05-12 17:36:58,590 - INFO - Proxy 8 :: 18.183.30.58:80  --  Not Available
+2024-05-12 17:37:02,209 - INFO - Proxy 9 :: 212.107.29.43:80  --  Not Available
+2024-05-12 17:37:02,898 - INFO - Proxy 10 :: 173.213.71.6:80  --  Not Available
+2024-05-12 17:37:02,898 - INFO - Total time to check all proxies: 0:00:17.941431
+2024-05-12 17:37:02,898 - INFO - Total available proxies for scraping: 0
+
+2024-05-12 17:37:12,974 - INFO - Proxy 1 :: 35.79.120.242:3128  --  Not Available
+2024-05-12 17:37:13,537 - INFO - Proxy 2 :: 178.128.113.118:23128  --  Not Available
+2024-05-12 17:37:14,775 - INFO - Proxy 3 :: 54.248.238.110:80  --  Not Available
+2024-05-12 17:37:16,233 - INFO - Proxy 4 :: 54.179.44.51:3128  --  Not Available
+2024-05-12 17:37:17,266 - INFO - Proxy 5 :: 18.228.198.164:80  --  Not Available
+2024-05-12 17:37:20,286 - INFO - Proxy 6 :: 154.236.189.23:1981  --  Not Available
+2024-05-12 17:37:21,497 - INFO - Proxy 7 :: 20.111.54.16:8123  --  Available
+2024-05-12 17:37:22,467 - INFO - Proxy 8 :: 15.236.106.236:3128  --  Not Available
+2024-05-12 17:37:23,285 - INFO - Proxy 9 :: 52.73.224.54:3128  --  Not Available
+2024-05-12 17:37:24,630 - INFO - Proxy 10 :: 3.37.125.76:3128  --  Not Available
+2024-05-12 17:37:24,645 - INFO - Total time to check all proxies: 0:00:13.866945
+2024-05-12 17:37:24,645 - INFO - Total available proxies for scraping: 1
+
+2024-05-12 17:37:47,280 - INFO - Proxy 1 :: 18.183.30.58:80  --  Not Available
+2024-05-12 17:37:47,530 - INFO - Proxy 2 :: 162.245.81.45:80  --  Not Available
+2024-05-12 17:37:48,484 - INFO - Proxy 3 :: 47.56.110.204:8989  --  Not Available
+2024-05-12 17:37:49,293 - INFO - Proxy 4 :: 3.67.39.1:8080  --  Not Available
+2024-05-12 17:37:50,364 - INFO - Proxy 5 :: 54.233.119.172:3128  --  Not Available
+2024-05-12 17:37:51,178 - INFO - Proxy 6 :: 52.73.224.54:3128  --  Not Available
+2024-05-12 17:37:51,184 - INFO - Total time to check all proxies: 0:00:06.917617
+2024-05-12 17:37:51,184 - INFO - Total available proxies for scraping: 0
+
+2024-05-12 20:12:18,340 - INFO - Proxy 1 :: 173.213.71.6:80  --  Not Available
+2024-05-12 20:12:19,468 - INFO - Proxy 2 :: 18.223.25.15:80  --  Not Available
+2024-05-12 20:12:19,787 - INFO - Proxy 3 :: 84.39.112.144:3128  --  Not Available
+2024-05-12 20:12:20,439 - INFO - Proxy 4 :: 103.163.51.254:80  --  Not Available
+2024-05-12 20:12:21,210 - INFO - Proxy 5 :: 95.217.178.175:80  --  Not Available
+2024-05-12 20:12:23,703 - INFO - Proxy 6 :: 212.107.29.43:80  --  Not Available
+2024-05-12 20:12:23,703 - INFO - Total time to check all proxies: 0:00:06.319806
+2024-05-12 20:12:23,703 - INFO - Total available proxies for scraping: 0
+
+2024-05-12 20:29:26,885 - INFO - Proxy 1 :: 154.236.189.23:1981  --  Not Available
+2024-05-12 20:29:27,216 - INFO - Proxy 2 :: 93.177.67.178:80  --  Not Available
+2024-05-12 20:29:29,352 - INFO - Proxy 3 :: 54.248.238.110:80  --  Not Available
+2024-05-12 20:29:30,131 - INFO - Proxy 4 :: 18.223.25.15:80  --  Not Available
+2024-05-12 20:29:30,490 - INFO - Proxy 5 :: 65.21.159.49:80  --  Not Available
+2024-05-12 20:29:32,230 - INFO - Proxy 6 :: 3.127.62.252:80  --  Not Available
+2024-05-12 20:29:32,230 - INFO - Total time to check all proxies: 0:00:06.774824
+2024-05-12 20:29:32,230 - INFO - Total available proxies for scraping: 0
+
+2024-05-12 20:29:40,285 - INFO - Proxy 1 :: 13.59.156.167:3128  --  Not Available
+2024-05-12 20:29:41,283 - INFO - Proxy 2 :: 44.219.175.186:80  --  Not Available
+2024-05-12 20:29:42,067 - INFO - Proxy 3 :: 13.38.100.157:4006  --  Not Available
+2024-05-12 20:29:45,080 - INFO - Proxy 4 :: 35.180.64.204:16877  --  Not Available
+2024-05-12 20:29:45,910 - INFO - Proxy 5 :: 3.68.116.206:4000  --  Not Available
+2024-05-12 20:29:47,103 - INFO - Proxy 6 :: 13.38.153.36:80  --  Not Available
+2024-05-12 20:29:47,105 - INFO - Total time to check all proxies: 0:00:09.826061
+2024-05-12 20:29:47,105 - INFO - Total available proxies for scraping: 0
+
+2024-05-12 20:30:43,264 - INFO - Proxy 1 :: 154.236.189.23:1981  --  Not Available
+2024-05-12 20:30:44,472 - INFO - Proxy 2 :: 54.248.238.110:80  --  Not Available
+2024-05-12 20:30:44,945 - INFO - Proxy 3 :: 13.38.100.157:4006  --  Not Available
+2024-05-12 20:30:45,785 - INFO - Proxy 4 :: 3.78.92.159:80  --  Not Available
+2024-05-12 20:30:46,524 - INFO - Proxy 5 :: 3.70.179.165:80  --  Not Available
+2024-05-12 20:30:48,010 - INFO - Proxy 6 :: 35.79.120.242:3128  --  Not Available
+2024-05-12 20:30:48,010 - INFO - Total time to check all proxies: 0:00:07.757962
+2024-05-12 20:30:48,010 - INFO - Total available proxies for scraping: 0
+
+2024-05-12 20:31:03,349 - INFO - Proxy 1 :: 119.28.60.64:8090  --  Not Available
+2024-05-12 20:31:04,097 - INFO - Proxy 2 :: 3.127.121.101:3128  --  Not Available
+2024-05-12 20:31:04,678 - INFO - Proxy 3 :: 20.235.159.154:80  --  Not Available
+2024-05-12 20:31:05,508 - INFO - Proxy 4 :: 44.219.175.186:80  --  Not Available
+2024-05-12 20:31:06,045 - INFO - Proxy 5 :: 3.127.62.252:80  --  Not Available
+2024-05-12 20:31:06,791 - INFO - Proxy 6 :: 13.37.59.99:3128  --  Not Available
+2024-05-12 20:31:06,791 - INFO - Total time to check all proxies: 0:00:07.055443
+2024-05-12 20:31:06,791 - INFO - Total available proxies for scraping: 0
+
+2024-05-12 20:32:38,742 - ERROR - Proxy 1 :: 173.213.71.6:80  --  Connection Error
+2024-05-12 20:32:40,768 - ERROR - Proxy 2 :: 3.77.153.38:80  --  Connection Error
+2024-05-12 20:32:41,626 - ERROR - Proxy 3 :: 3.68.116.206:4000  --  Connection Error
+2024-05-12 20:32:43,883 - INFO - Proxy 4 :: 20.206.106.192:8123  --  Available
+2024-05-12 20:32:44,383 - ERROR - Proxy 5 :: 104.222.32.110:80  --  Connection Error
+2024-05-12 20:32:45,156 - ERROR - Proxy 6 :: 13.40.37.133:4000  --  Connection Error
+2024-05-12 20:32:45,156 - INFO - Total time to check all proxies: 0:00:07.114366
+2024-05-12 20:32:45,156 - INFO - Total available proxies for scraping: 1
+
+2024-05-12 20:33:42,601 - ERROR - Proxy 1 :: 3.12.144.146:3128  --  Connection Error
+2024-05-12 20:33:43,126 - ERROR - Proxy 2 :: 13.38.100.157:4006  --  Connection Error
+2024-05-12 20:33:43,605 - ERROR - Proxy 3 :: 162.245.81.45:80  --  Connection Error
+2024-05-12 20:33:44,092 - ERROR - Proxy 4 :: 13.38.153.36:80  --  Connection Error
+2024-05-12 20:33:46,109 - ERROR - Proxy 5 :: 3.67.39.1:8080  --  Connection Error
+2024-05-12 20:33:49,121 - ERROR - Proxy 6 :: 183.100.14.134:8000  --  Connect Timeout
+2024-05-12 20:33:49,122 - INFO - Total time to check all proxies: 0:00:07.540462
+2024-05-12 20:33:49,122 - INFO - Total available proxies for scraping: 0
+
+2024-05-12 20:33:54,950 - ERROR - Proxy 1 :: 13.36.104.85:80  --  Connection Error
+2024-05-12 20:33:55,460 - ERROR - Proxy 2 :: 13.37.59.99:3128  --  Connection Error
+2024-05-12 20:33:56,216 - ERROR - Proxy 3 :: 3.122.84.99:80  --  Connection Error
+2024-05-12 20:33:57,921 - ERROR - Proxy 4 :: 13.212.121.49:8888  --  Connection Error
+2024-05-12 20:33:59,491 - ERROR - Proxy 5 :: 3.37.125.76:3128  --  Connection Error
+2024-05-12 20:34:02,496 - ERROR - Proxy 6 :: 154.236.189.23:1981  --  Connect Timeout
+2024-05-12 20:34:02,496 - INFO - Total time to check all proxies: 0:00:08.225940
+2024-05-12 20:34:02,496 - INFO - Total available proxies for scraping: 0
+
+2024-05-12 20:34:09,000 - ERROR - Proxy 1 :: 13.38.100.157:4006  --  Connection Error
+2024-05-12 20:34:09,845 - ERROR - Proxy 2 :: 13.37.89.201:3128  --  Connection Error
+2024-05-12 20:34:11,241 - ERROR - Proxy 3 :: 13.212.121.49:8888  --  Connection Error
+2024-05-12 20:34:11,880 - ERROR - Proxy 4 :: 47.88.3.19:8080  --  Connection Error
+2024-05-12 20:34:12,806 - ERROR - Proxy 5 :: 13.37.73.214:80  --  Connection Error
+2024-05-12 20:34:13,592 - ERROR - Proxy 6 :: 3.71.239.218:80  --  Connection Error
+2024-05-12 20:34:13,593 - INFO - Total time to check all proxies: 0:00:05.054338
+2024-05-12 20:34:13,593 - INFO - Total available proxies for scraping: 0
+
+2024-05-12 20:41:30,794 - ERROR - Proxy 1 :: 93.177.67.178:80  --  Connection Error
+2024-05-12 20:41:33,951 - ERROR - Proxy 2 :: 20.235.159.154:80  --  Connection Error
+2024-05-12 20:41:35,206 - ERROR - Proxy 3 :: 18.228.198.164:80  --  Connection Error
+2024-05-12 20:41:38,517 - ERROR - Proxy 4 :: 3.77.153.38:80  --  Connection Error
+2024-05-12 20:41:41,661 - ERROR - Proxy 5 :: 13.37.89.201:3128  --  Connection Error
+2024-05-12 20:41:42,037 - ERROR - Proxy 6 :: 103.163.51.254:80  --  Connection Error
+2024-05-12 20:41:42,037 - INFO - Total time to check all proxies: 0:00:11.310375
+2024-05-12 20:41:42,037 - INFO - Total available proxies for scraping: 0
+
+2024-05-12 20:41:49,578 - ERROR - Proxy 1 :: 13.36.104.85:80  --  Connection Error
+2024-05-12 20:41:50,186 - ERROR - Proxy 2 :: 74.48.7.43:80  --  Connection Error
+2024-05-12 20:41:51,203 - ERROR - Proxy 3 :: 18.228.198.164:80  --  Connection Error
+2024-05-12 20:41:51,921 - ERROR - Proxy 4 :: 44.219.175.186:80  --  Connection Error
+2024-05-12 20:41:53,033 - INFO - Proxy 5 :: 20.111.54.16:8123  --  Available
+2024-05-12 20:41:57,376 - ERROR - Proxy 6 :: 119.28.60.64:8090  --  Connection Error
+2024-05-12 20:41:57,376 - INFO - Total time to check all proxies: 0:00:08.248420
+2024-05-12 20:41:57,376 - INFO - Total available proxies for scraping: 1
+
+2024-05-12 20:47:26,948 - ERROR - Proxy 1 :: 3.126.147.182:3128  --  Connection Error
+2024-05-12 20:47:27,935 - ERROR - Proxy 2 :: 172.232.216.110:22027  --  Connection Error
+2024-05-12 20:47:31,490 - ERROR - Proxy 3 :: 35.72.118.126:80  --  Connection Error
+2024-05-12 20:47:32,467 - ERROR - Proxy 4 :: 47.56.110.204:8989  --  Connection Error
+2024-05-12 20:47:33,921 - ERROR - Proxy 5 :: 13.208.56.180:80  --  Connection Error
+2024-05-12 20:47:35,361 - ERROR - Proxy 6 :: 3.68.116.206:4000  --  Connection Error
+2024-05-12 20:47:35,361 - INFO - Total time to check all proxies: 0:00:10.579172
+2024-05-12 20:47:35,361 - INFO - Total available proxies for scraping: 0
+
+2024-05-12 20:47:40,908 - ERROR - Proxy 1 :: 3.70.179.165:80  --  Connection Error
+2024-05-12 20:47:41,410 - ERROR - Proxy 2 :: 162.245.81.45:80  --  Connection Error
+2024-05-12 20:47:42,661 - ERROR - Proxy 3 :: 54.233.119.172:3128  --  Connection Error
+2024-05-12 20:47:44,307 - ERROR - Proxy 4 :: 54.179.44.51:3128  --  Connection Error
+2024-05-12 20:47:44,965 - ERROR - Proxy 5 :: 3.77.153.38:80  --  Connection Error
+2024-05-12 20:47:46,437 - ERROR - Proxy 6 :: 18.183.30.58:80  --  Connection Error
+2024-05-12 20:47:46,437 - INFO - Total time to check all proxies: 0:00:06.220741
+2024-05-12 20:47:46,437 - INFO - Total available proxies for scraping: 0
+
+2024-05-12 20:48:17,491 - ERROR - Proxy 1 :: 172.232.216.110:22027  --  Connection Error
+2024-05-12 20:48:18,821 - ERROR - Proxy 2 :: 52.67.10.183:80  --  Connection Error
+2024-05-12 20:48:19,839 - ERROR - Proxy 3 :: 54.233.119.172:3128  --  Connection Error
+2024-05-12 20:48:22,424 - INFO - Proxy 4 :: 20.210.113.32:8123  --  Available
+2024-05-12 20:48:22,892 - ERROR - Proxy 5 :: 104.222.32.110:80  --  Connection Error
+2024-05-12 20:48:26,485 - ERROR - Proxy 6 :: 119.28.60.64:8090  --  Connection Error
+2024-05-12 20:48:28,910 - ERROR - Proxy 7 :: 54.179.44.51:3128  --  Connection Error
+2024-05-12 20:48:29,132 - ERROR - Proxy 8 :: 162.245.81.45:80  --  Connection Error
+2024-05-12 20:48:29,771 - ERROR - Proxy 9 :: 38.54.71.67:80  --  Connection Error
+2024-05-12 20:48:30,808 - ERROR - Proxy 10 :: 13.38.100.157:4006  --  Connection Error
+2024-05-12 20:48:30,810 - INFO - Total time to check all proxies: 0:00:15.494895
+2024-05-12 20:48:30,811 - INFO - Total available proxies for scraping: 1
+
+2024-05-12 20:50:13,998 - ERROR - Proxy 1 :: 18.185.169.150:3128  --  Connection Error
+2024-05-12 20:50:17,009 - ERROR - Proxy 2 :: 35.180.64.204:16877  --  Connect Timeout
+2024-05-12 20:50:19,025 - ERROR - Proxy 3 :: 47.88.3.19:8080  --  Connection Error
+2024-05-12 20:50:21,375 - ERROR - Proxy 4 :: 212.107.29.43:80  --  Connection Error
+2024-05-12 20:50:22,063 - ERROR - Proxy 5 :: 103.163.51.254:80  --  Connection Error
+2024-05-12 20:50:24,610 - INFO - Proxy 6 :: 20.24.43.214:80  --  Available
+2024-05-12 20:50:26,736 - INFO - Proxy 7 :: 20.206.106.192:8123  --  Available
+2024-05-12 20:50:28,002 - ERROR - Proxy 8 :: 18.228.198.164:80  --  Connection Error
+2024-05-12 20:50:28,760 - ERROR - Proxy 9 :: 13.36.87.105:3128  --  Connection Error
+2024-05-12 20:50:29,757 - ERROR - Proxy 10 :: 13.59.156.167:3128  --  Connection Error
+2024-05-12 20:50:29,757 - INFO - Total time to check all proxies: 0:00:16.584689
+2024-05-12 20:50:29,761 - INFO - Total available proxies for scraping: 2
+
+2024-05-12 20:51:50,901 - INFO - Proxy 1 :: 20.210.113.32:8123  --  Available
+2024-05-12 20:51:52,018 - ERROR - Proxy 2 :: 54.67.125.45:3128  --  Connection Error
+2024-05-12 20:51:53,000 - ERROR - Proxy 3 :: 54.233.119.172:3128  --  Connection Error
+2024-05-12 20:51:54,524 - ERROR - Proxy 4 :: 3.37.125.76:3128  --  Connection Error
+2024-05-12 20:51:54,885 - ERROR - Proxy 5 :: 47.88.3.19:8080  --  Connection Error
+2024-05-12 20:51:55,202 - ERROR - Proxy 6 :: 84.39.112.144:3128  --  Connection Error
+2024-05-12 20:51:55,696 - ERROR - Proxy 7 :: 157.245.14.43:8888  --  Connection Error
+2024-05-12 20:51:56,022 - ERROR - Proxy 8 :: 51.210.19.141:80  --  Connection Error
+2024-05-12 20:51:56,993 - ERROR - Proxy 9 :: 3.12.144.146:3128  --  Connection Error
+2024-05-12 20:51:57,365 - ERROR - Proxy 10 :: 38.54.71.67:80  --  Connection Error
+2024-05-12 20:51:57,365 - INFO - Total time to check all proxies: 0:00:08.845246
+2024-05-12 20:51:57,365 - INFO - Total available proxies for scraping: 1
+

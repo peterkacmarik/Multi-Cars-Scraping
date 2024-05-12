@@ -1,0 +1,84 @@
+{
+  "scraping_settings": {
+    "base_url_aaaauto": "https://www.aaaauto.cz/ojete-vozy/?page=",
+    "base_url_sauto": "https://www.sauto.cz/inzerce/osobni/?strana=",
+    "base_url_tipcars": "https://www.tipcars.com/nabidka-vozidel/?str=",
+    "user_agents": [
+      {"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"},
+      {"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36"},
+      {"user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36"},
+      {"user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15"},
+      {"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0"},
+      {"user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"},
+      {"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"},
+      {"user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36"},
+      {"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0"},
+      {"user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36"},
+      {"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36"},
+      {"user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15"}
+    ]
+  },
+
+  "proxy_settings": {
+    "use_proxy": true,
+    "rotate_proxies": true,
+    "proxy_list1": "multi-cars-scraping/proxy/proxy_scraper_list.csv",
+    "proxy_list2": "multi-cars-scraping/proxy/proxy_list.csv",
+    "proxy_list3": "multi-cars-scraping/proxy/available_proxy.csv",
+    "proxy_check_url": "https://httpbin.org/ip",
+    "proxy_check_url2": "https://ipapi.co/json/",
+    "proxy_check_url3": "https://httpbin.org/get",
+    "proxy_check_url_ip": "https://api.ipify.org?format=json",
+    "proxy_check_url_ip2": "https://ip.seeip.org/json",
+    "proxy_check_url_ip3": "https://ipinfo.io/json",
+    "proxy_check_url_ip4": "https://api.myip.com"
+  },
+
+  "logging_settings": {
+    "log_to_file": true,
+    "log_level": "INFO",
+    "log_format": "%(asctime)s - %(name)s - %(levelname)s - %(message)s",
+    "log_dir": {
+      "log_dir_main": "multi-cars-scraping/logs/main_app.log",
+      "log_dir_scraping": "multi-cars-scraping/logs/scraper_app.log",
+      "log_dir_proxies": "multi-cars-scraping/logs/proxy_app.log",
+      "log_dir_database": "multi-cars-scraping/logs/db_app.log"
+    }
+  },
+
+  "data_storage": {
+  "use_database": true,
+  "database_type": "sqlite",
+  "database_path": "cesta_k_databaze.db"
+  },
+
+  "notification_settings": {
+    "send_email_notifications": true,
+    "email": {
+      "smtp_server": "smtp.example.com",
+      "smtp_port": 587,
+      "email_sender": "notifikacie@example.com",
+      "email_recipient": "pouzivatel@example.com"
+    }
+  },
+  "scheduler_settings": {
+    "enable_scheduler": true,
+    "run_interval": {
+      "hours": 24
+    }
+  },
+  "user_interface": {
+    "enable_web_interface": true,
+    "web_port": 8080
+  },
+  "advanced_settings": {
+    "custom_user_scripts": [
+      "cesta_k_skriptu1.py",
+      "cesta_k_skriptu2.py"
+    ],
+    "machine_learning": {
+      "use_ml_models": false,
+      "model_path": "cesta_k_modelu.ml"
+    }
+  }
+}

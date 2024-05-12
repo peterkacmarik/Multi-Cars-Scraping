@@ -1,0 +1,30 @@
+2024-05-05 08:04:37,929 - INFO - Table 'aaaauto' updated successfully. 395 rows inserted.
+2024-05-06 06:08:07,764 - INFO - Table 'aaaauto' updated successfully. 44 rows inserted.
+2024-05-06 06:12:04,908 - INFO - Table 'car_data_from_multiple_sources' updated successfully. 44 rows inserted.
+2024-05-06 06:49:15,392 - INFO - Table 'car_data_from_multiple_sources' updated successfully. 66 rows inserted.
+2024-05-06 06:50:25,994 - INFO - All data from 'car_data_from_multiple_sources' table deleted.
+2024-05-06 21:02:04,672 - ERROR - An error occurred during the query: (psycopg2.errors.UndefinedTable) relation "aaaauto" does not exist
+LINE 1: SELECT * FROM aaaauto WHERE url = 'https://www.aaaauto.cz/cz...
+                      ^
+
+[SQL: SELECT * FROM aaaauto WHERE url = 'https://www.aaaauto.cz/cz/bmw-x5/car.html?id=648433214#']
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2024-05-06 21:37:53,062 - INFO - Table 'car_data_from_multiple_sources' updated successfully. 36 rows inserted.
+2024-05-06 21:42:12,348 - INFO - Table 'car_data_from_multiple_sources' updated successfully. 22 rows inserted.
+2024-05-07 06:41:08,803 - INFO - Table 'scraping_settings' updated successfully.
+2024-05-07 06:58:10,200 - INFO - Table 'scraping_settings' updated successfully.
+2024-05-07 07:02:50,880 - INFO - Table 'scraping_settings' updated successfully.
+2024-05-07 16:23:22,113 - INFO - Table 'scraping_settings' updated successfully.
+2024-05-07 17:37:57,511 - INFO - Table 'scraping_settings' updated successfully.
+2024-05-07 19:16:23,232 - INFO - Table 'scraping_settings' updated successfully.
+2024-05-07 19:45:04,776 - INFO - Table 'car_data_from_multiple_sources' updated successfully. 22 rows inserted.
+2024-05-07 19:45:24,564 - INFO - Table 'scraping_settings' updated successfully.
+2024-05-07 19:48:25,421 - INFO - Table 'scraping_settings' updated successfully.
+2024-05-07 19:56:02,080 - INFO - Table 'car_data_from_multiple_sources' updated successfully. 109 rows inserted.
+2024-05-07 20:06:22,531 - INFO - Table 'proxy_settings' updated successfully.
+2024-05-07 20:10:21,502 - INFO - Table 'scraping_settings' updated successfully.
+2024-05-07 20:11:34,415 - INFO - Table 'proxy_settings' updated successfully.
+2024-05-07 20:21:18,302 - INFO - Table 'proxy_settings' updated successfully.
+2024-05-07 20:34:45,970 - INFO - Table 'scraping_settings' updated successfully.
+2024-05-07 23:43:23,488 - INFO - All data from 'car_data_from_multiple_sources' table deleted.
+2024-05-08 08:20:30,571 - INFO - Table 'car_data_from_multiple_sources' updated successfully. 36 rows inserted.
