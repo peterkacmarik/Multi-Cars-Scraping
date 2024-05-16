@@ -1,4 +1,4 @@
-# Multi-Cars Scraping
+# Multi Web Scraping
 
 This project is a web scraper for multiple car websites. It uses Python and several libraries such as `pandas`, `requests`, and more...
 
